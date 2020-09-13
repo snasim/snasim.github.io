@@ -1,10 +1,12 @@
 ---
-pagetitle: Sanval Nasim's Academic Website
+pagetitle: Sanval Nasim's homepage
 ---
 
 <link rel="stylesheet" href="styles.css" type="text/css">
 
 <img src="images/pic1.jpg" style="width:25%; border: 0px solid; margin-right: 20px" align="left">
+
+Welcome to my academic website!
 
 I am an Assistant Professor of Economics at the Lahore University of Management Sciences ([LUMS](https://lums.edu.pk)). 
 
