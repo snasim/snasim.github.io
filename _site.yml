@@ -4,7 +4,7 @@ navbar:
   title: "Sanval Nasim"
   left:
     - text: "CV"
-      href: files/CV.pdf
+      href: snasim/CV/CV Latex/CV.pdf
     - text: "Research"
       href: research.html
     - text: "Teaching"
