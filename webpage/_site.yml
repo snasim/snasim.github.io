@@ -1,0 +1,22 @@
+name: "Sanval Nasim"
+output_dir: "."
+navbar:
+  title: "Sanval Nasim"
+  left:
+    - text: "CV"
+      href: files/CV.pdf
+    - text: "Research"
+      href: research.html
+    - text: "Teaching"
+      href: teaching.html
+  right:
+    - icon: fa-envelope fa-lg
+      href: contact.html
+    - icon: fa-github fa-lg
+      href: http://github.com/snasim
+    - icon: fa-twitter fa-lg
+      href: https://twitter.com/sanvalnasim
+output:
+  html_document:
+    theme: paper
+    css: 'styles.css'
