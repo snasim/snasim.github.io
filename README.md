@@ -1,2 +1,2 @@
-# sanval-nasim.github.io
+# sanvalnasim.github.io
 My personal website 
