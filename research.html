@@ -1,0 +1,440 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+
+<meta charset="utf-8" />
+<meta name="generator" content="pandoc" />
+<meta http-equiv="X-UA-Compatible" content="IE=EDGE" />
+
+
+
+
+<title>Sanval Nasim</title>
+
+<script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<link href="site_libs/bootstrap-3.3.5/css/darkly.min.css" rel="stylesheet" />
+<script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
+<script src="site_libs/navigation-1.1/tabsets.js"></script>
+<link href="site_libs/highlightjs-9.12.0/default.css" rel="stylesheet" />
+<script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
+<link href="site_libs/font-awesome-5.1.0/css/all.css" rel="stylesheet" />
+<link href="site_libs/font-awesome-5.1.0/css/v4-shims.css" rel="stylesheet" />
+
+<style type="text/css">code{white-space: pre;}</style>
+<style type="text/css">
+  pre:not([class]) {
+    background-color: white;
+  }
+</style>
+<script type="text/javascript">
+if (window.hljs) {
+  hljs.configure({languages: []});
+  hljs.initHighlightingOnLoad();
+  if (document.readyState && document.readyState === "complete") {
+    window.setTimeout(function() { hljs.initHighlighting(); }, 0);
+  }
+}
+</script>
+
+
+
+<style type="text/css">
+h1 {
+  font-size: 34px;
+}
+h1.title {
+  font-size: 38px;
+}
+h2 {
+  font-size: 30px;
+}
+h3 {
+  font-size: 24px;
+}
+h4 {
+  font-size: 18px;
+}
+h5 {
+  font-size: 16px;
+}
+h6 {
+  font-size: 12px;
+}
+.table th:not([align]) {
+  text-align: left;
+}
+</style>
+
+<link rel="stylesheet" href="styles.css" type="text/css" />
+
+
+
+<style type = "text/css">
+.main-container {
+  max-width: 940px;
+  margin-left: auto;
+  margin-right: auto;
+}
+code {
+  color: inherit;
+  background-color: rgba(0, 0, 0, 0.04);
+}
+img {
+  max-width:100%;
+}
+.tabbed-pane {
+  padding-top: 12px;
+}
+.html-widget {
+  margin-bottom: 20px;
+}
+button.code-folding-btn:focus {
+  outline: none;
+}
+summary {
+  display: list-item;
+}
+</style>
+
+
+<style type="text/css">
+/* padding for bootstrap navbar */
+body {
+  padding-top: 60px;
+  padding-bottom: 40px;
+}
+/* offset scroll position for anchor links (for fixed navbar)  */
+.section h1 {
+  padding-top: 65px;
+  margin-top: -65px;
+}
+.section h2 {
+  padding-top: 65px;
+  margin-top: -65px;
+}
+.section h3 {
+  padding-top: 65px;
+  margin-top: -65px;
+}
+.section h4 {
+  padding-top: 65px;
+  margin-top: -65px;
+}
+.section h5 {
+  padding-top: 65px;
+  margin-top: -65px;
+}
+.section h6 {
+  padding-top: 65px;
+  margin-top: -65px;
+}
+.dropdown-submenu {
+  position: relative;
+}
+.dropdown-submenu>.dropdown-menu {
+  top: 0;
+  left: 100%;
+  margin-top: -6px;
+  margin-left: -1px;
+  border-radius: 0 6px 6px 6px;
+}
+.dropdown-submenu:hover>.dropdown-menu {
+  display: block;
+}
+.dropdown-submenu>a:after {
+  display: block;
+  content: " ";
+  float: right;
+  width: 0;
+  height: 0;
+  border-color: transparent;
+  border-style: solid;
+  border-width: 5px 0 5px 5px;
+  border-left-color: #cccccc;
+  margin-top: 5px;
+  margin-right: -10px;
+}
+.dropdown-submenu:hover>a:after {
+  border-left-color: #ffffff;
+}
+.dropdown-submenu.pull-left {
+  float: none;
+}
+.dropdown-submenu.pull-left>.dropdown-menu {
+  left: -100%;
+  margin-left: 10px;
+  border-radius: 6px 0 6px 6px;
+}
+</style>
+
+<script>
+// manage active state of menu based on current page
+$(document).ready(function () {
+  // active menu anchor
+  href = window.location.pathname
+  href = href.substr(href.lastIndexOf('/') + 1)
+  if (href === "")
+    href = "index.html";
+  var menuAnchor = $('a[href="' + href + '"]');
+
+  // mark it active
+  menuAnchor.parent().addClass('active');
+
+  // if it's got a parent navbar menu mark it active as well
+  menuAnchor.closest('li.dropdown').addClass('active');
+});
+</script>
+
+<!-- tabsets -->
+
+<style type="text/css">
+.tabset-dropdown > .nav-tabs {
+  display: inline-table;
+  max-height: 500px;
+  min-height: 44px;
+  overflow-y: auto;
+  background: white;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+}
+
+.tabset-dropdown > .nav-tabs > li.active:before {
+  content: "";
+  font-family: 'Glyphicons Halflings';
+  display: inline-block;
+  padding: 10px;
+  border-right: 1px solid #ddd;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
+  content: "&#xe258;";
+  border: none;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open:before {
+  content: "";
+  font-family: 'Glyphicons Halflings';
+  display: inline-block;
+  padding: 10px;
+  border-right: 1px solid #ddd;
+}
+
+.tabset-dropdown > .nav-tabs > li.active {
+  display: block;
+}
+
+.tabset-dropdown > .nav-tabs > li > a,
+.tabset-dropdown > .nav-tabs > li > a:focus,
+.tabset-dropdown > .nav-tabs > li > a:hover {
+  border: none;
+  display: inline-block;
+  border-radius: 4px;
+  background-color: transparent;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li {
+  display: block;
+  float: none;
+}
+
+.tabset-dropdown > .nav-tabs > li {
+  display: none;
+}
+</style>
+
+<!-- code folding -->
+
+
+
+
+</head>
+
+<body>
+
+
+<div class="container-fluid main-container">
+
+
+
+
+<div class="navbar navbar-default  navbar-fixed-top" role="navigation">
+  <div class="container">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar">
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand" href="index.html">Sanval Nasim</a>
+    </div>
+    <div id="navbar" class="navbar-collapse collapse">
+      <ul class="nav navbar-nav">
+        <li>
+  <a href="files/CV.pdf">CV</a>
+</li>
+<li>
+  <a href="research.html">Research</a>
+</li>
+<li>
+  <a href="teaching.html">Teaching</a>
+</li>
+      </ul>
+      <ul class="nav navbar-nav navbar-right">
+        <li>
+  <a href="contact.html">
+    <span class="fa fa-envelope fa-lg"></span>
+     
+  </a>
+</li>
+<li>
+  <a href="http://github.com/snasim">
+    <span class="fa fa-github fa-lg"></span>
+     
+  </a>
+</li>
+<li>
+  <a href="https://twitter.com/sanvalnasim">
+    <span class="fa fa-twitter fa-lg"></span>
+     
+  </a>
+</li>
+      </ul>
+    </div><!--/.nav-collapse -->
+  </div><!--/.container -->
+</div><!--/.navbar -->
+
+<div class="fluid-row" id="header">
+
+
+
+<h1 class="title toc-ignore">Sanval Nasim: Economics Research</h1>
+
+</div>
+
+
+<p><link rel="stylesheet" href="styles.css" type="text/css"></p>
+<p><br />
+</p>
+<div id="publications" class="section level2">
+<h2>Publications</h2>
+<p><br />
+</p>
+<div id="groundwater-management-under-heterogeneous-land-tenure-arrangements" class="section level3">
+<h3><strong><a href="https://doi.org/10.1016/j.reseneeco.2020.101203">Groundwater Management under Heterogeneous Land Tenure Arrangements</a></strong></h3>
+<p>(with Steven Helfand and Ariel Dinar), <em>Resource and Energy Economics</em>, 62, November 2020: 101203.</p>
+<p><strong>Abstract:</strong> We develop a groundwater extraction model that considers the Marshallian inefficiency associated with sharecropping and use data from Pakistan to simulate the impact of an open access regime and of optimal management on groundwater extractions, the state of the aquifer, and annual net benefits through time. We also evaluate a price instrument as a mechanism of inducing optimal extractions. Under both open access and optimal management, we observe notable differences in groundwater extractions and the water table level between the tenure model (which considers the behavior of both owner cultivators and sharecroppers) and the baseline model (which includes the behavior of only owner cultivators). We also find a modest difference in the aggregate net benefits generated by the two models. The results offer new insights—vis-à-vis land tenure heterogeneity—into the evaluation of more effective policies for groundwater management and aquifer sustainability.</p>
+<hr />
+</div>
+<div id="to-adopt-or-not-to-adopt-why-is-the-question-a-case-for-clean-kiln-technologies-in-developing-countries" class="section level3">
+<h3><strong><a href="https://doi.org/10.1016/j.jclepro.2020.120553">To adopt, or not to adopt, ‘why’ is the question: A case for clean kiln technologies in developing countries</a></strong></h3>
+<p>(with Faiza Sharif), <em>Journal of Cleaner Production</em>, 257, June 2020: 120553.</p>
+<p><strong>Abstract:</strong> In this paper, we compare two brick kiln technologies—the Bull’s Trench Kiln (BTK) and the Induced Draft Zigzag Kiln (ZZK)—through a transdisciplinary approach by focusing on two questions: do ZZKs tend to be cleaner than BTKs? Will operating ZZKs generate any reasonable economic and social benefits? To answer the first question, we collected and tested stack emission samples from two kilns: a newly constructed ZZK in Punjab, Pakistan and a conventional BTK located close to the ZZK. To address the second question, we conducted a cost-benefit analysis of the two types of kiln technologies using primary data on input and output quantities and prices from the sample kilns. The environmental results show that the ZZK emitted significantly less amount of harmful gases and particulate matter compared to the BTK. The economic analysis demonstrates that ZZKs improve both discounted private welfare and discounted social welfare compared to BTKs. For policymakers, we also outline recommendations to facilitate the technology transition to ZZKs. Our findings provide a case for the adoption of ZZKs in developing countries and for environmental policymakers to facilitate the technology transition.</p>
+<p><br />
+</p>
+</div>
+</div>
+<div id="under-review" class="section level2">
+<h2>Under Review</h2>
+<p><br />
+</p>
+<div id="building-trust-in-the-state-with-information-evidence-from-urban-punjab" class="section level3">
+<h3><strong><a href="https://documents.worldbank.org/en/publication/documents-reports/documentdetail/188481604516771120/building-trust-in-the-state-with-information-evidence-from-urban-punjab">Building Trust in the State with Information: Evidence from Urban Punjab</a></strong></h3>
+<p>(with Adnan Khan, Mahvish Shaukat, and Andreas Stegmann).</p>
+<p>Available as Policy Research Working Paper WPS9469, Impact Evaluation Series, Washington DC: The World Bank Group, November 2020.</p>
+<p><strong>Abstract:</strong> Citizens in developing countries often distrust state institutions and their ability to provide public services. In this paper, we conduct a phone-based experiment to study whether communication designed to increase support for government policy and shift perceptions of state capacity redress deep-rooted mistrust in state institutions. We leverage randomly assigned informational treatments with 5,771 respondents in Lahore and Faisalabad, the two most-populous cities in Pakistan’s Punjab province. We find providing information on past state effectiveness, highlighting citizens’ cooperation in enabling past effectiveness or appealing to religious authorities’ support for government policy have limited impact on support for policy, perceptions of state capacity, and trust in the state in Pakistan. This holds true on average and across important dimensions of heterogeneity after accounting for experimenter demand. Our work highlights the limits of using information to build trust in state institutions, and the importance of measuring experimenter demand.</p>
+<p><br />
+</p>
+</div>
+</div>
+<div id="working-papers" class="section level2">
+<h2>Working Papers</h2>
+<p><br />
+</p>
+<div id="forecasts-consumption-production-and-behavioral-responses" class="section level3">
+<h3><strong><a href="https://www.socialscienceregistry.org/trials/4343">Forecasts: Consumption, Production, and Behavioral Responses</a></strong></h3>
+<p>(with Husnain A. Fateh, Matthew Gibson, Fatiq Nadeem, and Arman Rezaee).</p>
+<p>[<em>Draft working paper available on request</em>]</p>
+<p><strong>Abstract:</strong> Economic theory predicts forecasts are an important determinant of welfare. In developing countries, however, limited information and human capital may make it difficult for agents to produce accurate, precise forecasts. This plausibly limits the scope for optimal responses to uncertain future events. In this paper, we explore how urban residents in the developing world solve forecasting problems in the presence of constraints on information and human capital. We implement a randomized controlled trial in Lahore, Pakistan to study the effects on forecast consumption, production, and behavioral responses from two randomized interventions in Lahore, Pakistan: 1) provision of one-day ahead air pollution forecasts; and 2) general forecasting training aimed at reducing behavioral biases. On average, subjects exposed to forecasts are willing to pay roughly 60 percent of the cost of mobile internet access to continue receiving them. Both interventions reduce air pollution forecast error, and receipt of forecasts increase demand for protective masks. These results document substantial demand for forecasts among urban residents in the developing world. They suggest that modest educational interventions may durably improve forecasting-relevant human capital.</p>
+<hr />
+</div>
+<div id="does-conservation-messaging-reduce-urban-water-consumption" class="section level3">
+<h3><strong>Does conservation messaging reduce urban water consumption?</strong></h3>
+<p>(with Agha Ali Akram and Syed M. Hasan).</p>
+<p>[<em>Preliminary draft available on request</em>]</p>
+<p><strong>Abstract:</strong> Cities in developing countries often lack water meters to gauge volumetric consumption, which inhibits water utilities’ capacity to price the resource. Given the difficulty of establishing volumetric pricing schemes in unmetered settings, do informational nudges provide water utilities an effective alternative to incentivize reductions in household water consumption? To answer this question, we conduct a randomized controlled trial in Islamabad, Pakistan. Our treatment includes three different intervention materials: an infographics poster depicting water conservation tips; a calendar with a religious message on water conservation (religious calendar); and a calendar with a message on potential financial loss due to water scarcity (loss aversion calendar). We find that the intervention material pushes the willingness to conserve in the right direction for most respondents in our treatment arms. Our results suggest that informational messages offer policymakers a low-cost alternative to nudge urban households to conserve water in their homes.</p>
+<hr />
+</div>
+<div id="the-impact-of-groundwater-levels-on-development-outcomes-evidence-from-pakistan" class="section level3">
+<h3><strong>The impact of groundwater levels on development outcomes: Evidence from Pakistan</strong></h3>
+<p>(with Saher Asad).</p>
+<p>[<em>Preliminary draft available on request</em>]</p>
+<p><strong>Abstract:</strong> Groundwater stock is an important natural resource endowment for countries—such as Pakistan—which heavily rely on agriculture. Pakistan’s Agriculture Census (2010) shows that 66 percent of households either partially (48 percent of households) or fully (18 percent of households) rely on groundwater stock as a source of irrigation. Little empirical evidence is available on how depletion of groundwater stock affects the economy of a village in terms of sectoral shifts. This paper contributes to the literature by answering this question using data from two sub-basins (doabs) of Pakistan (Rechna and Bari Doab). Using a panel dataset of spatially referenced tubewells (from 2004 and 2012), we study the impact of changes in depth to the water table (proxy for groundwater stock) on vegetation cover (proxy for agriculture) and nightlights (proxy for local economic activity). Results suggest that as the water table falls, agricultural activity decreases and nightlight intensity rises. This suggests that agricultural households adapt to a depleting groundwater stock by transitioning away from agriculture.</p>
+<hr />
+</div>
+<div id="optimal-groundwater-management-in-pakistans-indus-water-basin" class="section level3">
+<h3><strong><a href="http://ebrary.ifpri.org/digital/collection/p15738coll2/id/130109">Optimal groundwater management in Pakistan’s Indus Water Basin</a></strong></h3>
+<p>(with Steven Helfand), IFPRI PSSP Working Paper 34, Washington DC: International Food Policy Research Institute, January 2015.</p>
+<p><strong>Abstract:</strong> We use a panel dataset of rural households in Pakistan to estimate the allocative inefficiency of groundwater, compare it across heterogeneous farms, and quantify its effect on land productivity. Heterogeneity (farm type) includes agricultural tenure, farm size, access to surface water and location on a watercourse. Estimation results show that sharecroppers have lower levels of technical inefficiency than owner-cultivators, although there was a high degree of inefficiency for both types. This suggests that sharecroppers compensate for other deficiencies—such as access to credit, capital, or irrigation—through superior technical efficiency. The results for the allocative efficiency of groundwater show significant differences in the utilization of groundwater across tenure, farm size, access to surface water and location on a watercourse. We also find that on average farms could increase income by 10 percent by allocating groundwater efficiently. The combination of empirical and policy results could help fill a knowledge gap about management alternatives for sustainable and productive use of groundwater in developing countries.</p>
+<hr />
+</div>
+<div id="groundwater-utilization-under-varied-farm-level-characteristics-evidence-and-policy-from-a-developing-country-context" class="section level3">
+<h3><strong><a href="https://ebrary.ifpri.org/digital/collection/p15738coll2/id/128005/rec/10">Groundwater utilization under varied farm-level characteristics: Evidence and policy from a developing country context</a></strong></h3>
+<p>(with Ariel Dinar and Steven Helfand).</p>
+<p>An earlier version is available as IFPRI PSSP Working Paper 15, Washington DC: International Food Policy Research Institute, January 2014.</p>
+<p>[<em>Revised draft available on request</em>]</p>
+<p><strong>Abstract:</strong> We use a panel dataset of rural households in Pakistan to estimate the allocative inefficiency of groundwater, compare it across heterogeneous farms, and quantify its effect on land productivity. Heterogeneity (farm type) includes agricultural tenure, farm size, access to surface water and location on a watercourse. Estimation results show that sharecroppers have lower levels of technical inefficiency than owner-cultivators, although there was a high degree of inefficiency for both types. This suggests that sharecroppers compensate for other deficiencies—such as access to credit, capital, or irrigation—through superior technical efficiency. The results for the allocative efficiency of groundwater show significant differences in the utilization of groundwater across tenure, farm size, access to surface water and location on a watercourse. We also find that on average farms could increase income by 10 percent by allocating groundwater efficiently. The combination of empirical and policy results could help fill a knowledge gap about management alternatives for sustainable and productive use of groundwater in developing countries.</p>
+</div>
+</div>
+
+
+
+
+</div>
+
+<script>
+
+// add bootstrap table styles to pandoc tables
+function bootstrapStylePandocTables() {
+  $('tr.header').parent('thead').parent('table').addClass('table table-condensed');
+}
+$(document).ready(function () {
+  bootstrapStylePandocTables();
+});
+
+
+</script>
+
+<!-- tabsets -->
+
+<script>
+$(document).ready(function () {
+  window.buildTabsets("TOC");
+});
+
+$(document).ready(function () {
+  $('.tabset-dropdown > .nav-tabs > li').click(function () {
+    $(this).parent().toggleClass('nav-tabs-open')
+  });
+});
+</script>
+
+<!-- code folding -->
+
+
+<!-- dynamically load mathjax for compatibility with self-contained -->
+<script>
+  (function () {
+    var script = document.createElement("script");
+    script.type = "text/javascript";
+    script.src  = "https://mathjax.rstudio.com/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML";
+    document.getElementsByTagName("head")[0].appendChild(script);
+  })();
+</script>
+
+</body>
+</html>
