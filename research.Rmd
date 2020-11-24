@@ -26,7 +26,7 @@ pagetitle: "Sanval Nasim"
 
 **Abstract:** In this paper, we compare two brick kiln technologies—the Bull’s Trench Kiln (BTK) and the Induced Draft Zigzag Kiln (ZZK)—through a transdisciplinary approach by focusing on two questions: do ZZKs tend to be cleaner than BTKs? Will operating ZZKs generate any reasonable economic and social benefits? To answer the first question, we collected and tested stack emission samples from two kilns: a newly constructed ZZK in Punjab, Pakistan and a conventional BTK located close to the ZZK. To address the second question, we conducted a cost-benefit analysis of the two types of kiln technologies using primary data on input and output quantities and prices from the sample kilns. The environmental results show that the ZZK emitted significantly less amount of harmful gases and particulate matter compared to the BTK. The economic analysis demonstrates that ZZKs improve both discounted private welfare and discounted social welfare compared to BTKs. For policymakers, we also outline recommendations to facilitate the technology transition to ZZKs. Our findings provide a case for the adoption of ZZKs in developing countries and for environmental policymakers to facilitate the technology transition.
 
-\
+***
 
 ## Under Review
 
@@ -40,7 +40,7 @@ Available as Policy Research Working Paper WPS9469, Impact Evaluation Series, Wa
 
 **Abstract:** Citizens in developing countries often distrust state institutions and their ability to provide public services. In this paper, we conduct a phone-based experiment to study whether communication designed to increase support for government policy and shift perceptions of state capacity redress deep-rooted mistrust in state institutions. We leverage randomly assigned informational treatments with 5,771 respondents in Lahore and Faisalabad, the two most-populous cities in Pakistan's Punjab province. We find providing information on past state effectiveness, highlighting citizens' cooperation in enabling past effectiveness or appealing to religious authorities' support for government policy have limited impact on support for policy, perceptions of state capacity, and trust in the state in Pakistan. This holds true on average and across important dimensions of heterogeneity after accounting for experimenter demand. Our work highlights the limits of using information to build trust in state institutions, and the importance of measuring experimenter demand.
 
-\
+***
 
 ## Working Papers
 
@@ -93,3 +93,5 @@ An earlier version is available as IFPRI PSSP Working Paper 15, Washington DC: I
 [*Revised draft available on request*]
 
 **Abstract:** We use a panel dataset of rural households in Pakistan to estimate the allocative inefficiency of groundwater, compare it across heterogeneous farms, and quantify its effect on land productivity. Heterogeneity (farm type) includes agricultural tenure, farm size, access to surface water and location on a watercourse. Estimation results show that sharecroppers have lower levels of technical inefficiency than owner-cultivators, although there was a high degree of inefficiency for both types. This suggests that sharecroppers compensate for other deficiencies—such as access to credit, capital, or irrigation—through superior technical efficiency. The results for the allocative efficiency of groundwater show significant differences in the utilization of groundwater across tenure, farm size, access to surface water and location on a watercourse. We also find that on average farms could increase income by 10 percent by allocating groundwater efficiently. The combination of empirical and policy results could help fill a knowledge gap about management alternatives for sustainable and productive use of groundwater in developing countries.
+
+***

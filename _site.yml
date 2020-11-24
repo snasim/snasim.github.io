@@ -18,5 +18,5 @@ navbar:
       href: https://twitter.com/sanvalnasim
 output:
   html_document:
-    theme: darkly
+    theme: flatly
     css: 'styles.css'
