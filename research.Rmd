@@ -5,11 +5,6 @@ pagetitle: "Sanval's Research"
 
 <link rel="stylesheet" href="styles.css" type="text/css">
 
-<style>
-body {
-text-align: justify}
-</style>
-
 ***
 
 ## Publications
