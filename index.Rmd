@@ -1,17 +1,21 @@
 ---
-pagetitle: Sanval Nasim's Homepage
+title: ""
+pagetitle: "Sanval Nasim's Homepage"
 ---
 
 <link rel="stylesheet" href="styles.css" type="text/css">
 
 \
 
-<figure class="fig-left">
-<img src="images/banner1.png">
-<figcaption>Art of manuscript illumination by Anum Malkani</figcaption>
-</figure>
+\
 
-<font size="7">Welcome!</font>
+<div style= "float:left; margin-right: 30px;">
+```{r, echo=FALSE, fig.algn="left", out.width="500px", fig.cap="Art of manuscript illumination by Anum Malkani", out.extra='style="background-color: black; padding: 15px;"'}
+knitr::include_graphics("images/banner1.png")
+```
+</div>
+
+\
 
 <font size="6">Sanval Nasim</font>
 

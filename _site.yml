@@ -20,5 +20,6 @@ navbar:
       href: https://twitter.com/sanvalnasim
 output:
   html_document:
+    fig_caption: yes
     theme: flatly
     css: 'styles.css'

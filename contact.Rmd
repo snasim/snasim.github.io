@@ -1,8 +1,11 @@
 ---
-pagetitle: Contact Sanval
+title: "Contact"
+pagetitle: "Contact Sanval"
 ---
 
 <link rel="stylesheet" href="styles.css" type="text/css">
+
+***
 
 You can reach out to me at:
 
@@ -16,3 +19,5 @@ Lahore, Pakistan 54792<br>
 sanval.nasim@lums.edu.pk<br>
 
 Feel free to connect with me on GitHub or Twitter (links in top right).
+
+***

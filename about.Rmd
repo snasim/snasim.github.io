@@ -7,7 +7,13 @@ pagetitle: "About Sanval"
 
 ***
 
-<img src="images/profile1.png" style="width:23%; border: 0px solid; margin-right: 20px" align="left">
+<div style= "float:left; margin-right: 20px;">
+```{r, echo=FALSE, fig.algn="left", out.width="250px"}
+knitr::include_graphics("images/profile1.png")
+```
+</div>
+
+Welcome!
 
 I am Assistant Professor of Economics at the Lahore University of Management Sciences ([LUMS](https://lums.edu.pk)).
 

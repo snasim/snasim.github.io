@@ -31,18 +31,5 @@ body {
 .navbar-nav {
   font-size: 20px;
 }
-img {
-    display: block;
-    margin: auto;
-}
 img-circle {
     border-radius: 50%;
-}
-.fig-left {
-  float: left;
-  width: 50%;
-  text-align: left;
-  font-size: smaller;
-  padding: 0;
-  margin-right: 40px;
-}
