@@ -1,6 +1,6 @@
 ---
-title: "Sanval Nasim: Teaching"
-pagetitle: "Sanval Nasim"
+title: "Teaching"
+pagetitle: "Sanval's Teaching"
 ---
 
 <link rel="stylesheet" href="styles.css" type="text/css">
@@ -10,7 +10,7 @@ body {
 text-align: justify}
 </style>
 
-\
+***
 
 ## Lahore University of Management Sciences (LUMS)
 
@@ -28,7 +28,7 @@ Principles of Macroeconomics (ECON 121): Spring 2019
 
 A Survey of the History of Economic Thought (ECON 201): Fall 2020
 
-\
+***
 
 ## University of California, Riverside
 
@@ -37,3 +37,5 @@ A Survey of the History of Economic Thought (ECON 201): Fall 2020
 Introduction to Environmental Economics (ENSC 006): Fall 2013, Fall 2014, *teaching assistant to Prof. Ariel Dinar*
 
 Introduction to Environmental Sciences (ENSC 003): Spring 2012, *teaching assistant to Prof. David Crohn*
+
+***

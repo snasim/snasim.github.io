@@ -1,40 +1,20 @@
 ---
-pagetitle: Sanval Nasim's homepage
+pagetitle: Sanval Nasim's Homepage
 ---
 
 <link rel="stylesheet" href="styles.css" type="text/css">
 
-<style>
-body {
-text-align: justify}
-</style>
+\
 
-<img src="images/pic1.jpg" style="width:25%; border: 0px solid; margin-right: 20px" align="left">
+<figure class="fig-left">
+<img src="images/banner1.png">
+<figcaption>Art of manuscript illumination by Anum Malkani</figcaption>
+</figure>
 
-Welcome!
+<font size="7">Welcome!</font>
 
-I am Assistant Professor of Economics at the Lahore University of Management Sciences ([LUMS](https://lums.edu.pk)).
+<font size="6">Sanval Nasim</font>
 
-I am also a research fellow at the Institute of Development and Economic Alternatives ([IDEAS](https://ideaspak.org)), the Mahbub ul Haq Research Centre ([MHRC](https://mhrc.lums.edu.pk)), and the Centre for Water Informatics and Technology ([WIT](https://wit.lums.edu.pk)).
+<font size="5">Assistant Professor of Economics</font>
 
-I obtained my PhD in Environmental and Natural Resource Economics and Policy from the University of California, Riverside in 2015 and a BA in Economics-Mathematics and in History from Colby College in 2008.
-
-I have an active research portfolio in the areas of:
-
-* Environmental and Natural Resource Economics
-
-* Applied Economics
-
-I seek to understand:
-
-* How policymakers in developing countries can better manage environmental quality and natural resources---especially groundwater---given institutional constraints that economic actors face in low-income settings;
-
-* How provision of information---such as air pollution forecasts, water conservation tips, and firm emissions portfolios---can improve behavioral responses to environmental externalities.
-
-I rely on:
-
-* Dynamic optimization methods (dynamic programming and optimal control) to solve and simulate hydro-economic models;
-
-* Applied methods (field experiments, lab-in-the-field experiments, and stochastic frontier analysis) based on field surveys to identify causal impacts and mechanisms.
-
-To support my research, I have raised funds close to $250,000 through grants from organizations such as the International Growth Center and the International Food and Policy Research Institute.
+<font size="5">Lahore University of Management Sciences (LUMS)</font>

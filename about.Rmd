@@ -1,5 +1,54 @@
 ---
-title: "About This Website"
+title: "About Me"
+pagetitle: "About Sanval"
 ---
 
-More about this website.
+<link rel="stylesheet" href="styles.css" type="text/css">
+
+***
+
+<img src="images/profile1.png" style="width:23%; border: 0px solid; margin-right: 20px" align="left">
+
+I am Assistant Professor of Economics at the Lahore University of Management Sciences ([LUMS](https://lums.edu.pk)).
+
+I am also a research fellow at the Institute of Development and Economic Alternatives ([IDEAS](https://ideaspak.org)), the Mahbub ul Haq Research Centre ([MHRC](https://mhrc.lums.edu.pk)), and the Centre for Water Informatics and Technology ([WIT](https://wit.lums.edu.pk)).
+
+I obtained my PhD in Environmental and Natural Resource Economics and Policy from the University of California, Riverside in 2015 and a BA in Economics-Mathematics and in History from Colby College in 2008.
+
+\
+
+### Research Fields
+
+I have an active research portfolio in the areas of:
+
+* Environmental and Natural Resource Economics
+
+* Applied Economics
+
+\
+
+### Areas of Inquiry
+
+I seek to understand:
+
+* How policymakers in developing countries can better manage environmental quality and natural resources---especially groundwater---given institutional constraints that economic actors face in low-income settings;
+
+* How provision of information---such as air pollution forecasts, water conservation tips, and firm emissions portfolios---can improve behavioral responses to environmental externalities.
+
+\
+
+### Methods
+
+I rely on:
+
+* Dynamic optimization methods (dynamic programming and optimal control) to solve and simulate hydro-economic models;
+
+* Applied methods (field experiments, lab-in-the-field experiments, and stochastic frontier analysis) based on field surveys to identify causal impacts and mechanisms.
+
+\
+
+### Funding
+
+To support my research, I have raised funds close to $250,000 through grants from organizations such as the International Growth Center and the International Food and Policy Research Institute.
+
+***

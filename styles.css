@@ -23,6 +23,7 @@ h6 {
 }
 body {
   font-size: 18px;
+  text-align: justify;
 }
 .navbar-brand {
   font-size: 24px;
@@ -36,4 +37,12 @@ img {
 }
 img-circle {
     border-radius: 50%;
+}
+.fig-left {
+  float: left;
+  width: 50%;
+  text-align: left;
+  font-size: smaller;
+  padding: 0;
+  margin-right: 40px;
 }
