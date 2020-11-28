@@ -21,9 +21,9 @@ I am also a research fellow at the Institute of Development and Economic Alterna
 
 I obtained my PhD in Environmental and Natural Resource Economics and Policy from the University of California, Riverside in 2015 and a BA in Economics-Mathematics and in History from Colby College in 2008.
 
-\
-
+<p style="margin-top:1.5em;">
 ### Research Fields
+</p>
 
 I have an active research portfolio in the areas of:
 
@@ -31,9 +31,9 @@ I have an active research portfolio in the areas of:
 
 * Applied Economics
 
-\
-
+<p style="margin-top:1.5em;">
 ### Areas of Inquiry
+</p>
 
 I seek to understand:
 
@@ -41,9 +41,9 @@ I seek to understand:
 
 * How provision of information---such as air pollution forecasts, water conservation tips, and firm emissions portfolios---can improve behavioral responses to environmental externalities.
 
-\
-
+<p style="margin-top:1.5em;">
 ### Methods
+</p>
 
 I rely on:
 
@@ -51,9 +51,9 @@ I rely on:
 
 * Applied methods (field experiments, lab-in-the-field experiments, and stochastic frontier analysis) based on field surveys to identify causal impacts and mechanisms.
 
-\
-
+<p style="margin-top:1.5em;">
 ### Funding
+</p>
 
 To support my research, I have raised funds close to $250,000 through grants from organizations such as the International Growth Center and the International Food and Policy Research Institute.
 

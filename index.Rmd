@@ -9,8 +9,8 @@ pagetitle: "Sanval Nasim's Homepage"
 
 \
 
-<div style= "float:left; margin-right: 30px;">
-```{r, echo=FALSE, fig.algn="left", out.width="600px", fig.cap="Art of manuscript illumination by Anum Malkani", out.extra='style="background-color: black; padding: 15px;"'}
+<div style= "float:left; margin-right: 40px;">
+```{r, echo=FALSE, fig.algn="left", out.width="500px", fig.cap="Art of manuscript illumination by Anum Malkani", out.extra='style="background-color: black; padding: 15px;"'}
 knitr::include_graphics("images/banner1.png")
 ```
 </div>

@@ -1,6 +1,6 @@
 ---
 title: "Research"
-pagetitle: "Sanval's Research"
+pagetitle: Sanval's Research
 ---
 
 <link rel="stylesheet" href="styles.css" type="text/css">
@@ -8,8 +8,6 @@ pagetitle: "Sanval's Research"
 ***
 
 ## Publications
-
-\
 
 ### **[Groundwater Management under Heterogeneous Land Tenure Arrangements](https://doi.org/10.1016/j.reseneeco.2020.101203)**
 
@@ -29,8 +27,6 @@ pagetitle: "Sanval's Research"
 
 ## Under Review
 
-\
-
 ### **[Building Trust in the State with Information: Evidence from Urban Punjab](https://documents.worldbank.org/en/publication/documents-reports/documentdetail/188481604516771120/building-trust-in-the-state-with-information-evidence-from-urban-punjab)**
 
 (with Adnan Khan, Mahvish Shaukat, and Andreas Stegmann).
@@ -43,7 +39,6 @@ Available as Policy Research Working Paper WPS9469, Impact Evaluation Series, Wa
 
 ## Working Papers
 
-\
 
 ### **[Forecasts: Consumption, Production, and Behavioral Responses](https://www.socialscienceregistry.org/trials/4343)**
 
