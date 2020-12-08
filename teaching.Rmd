@@ -3,8 +3,6 @@ title: "Teaching"
 pagetitle: "Sanval's Teaching"
 ---
 
-<link rel="stylesheet" href="styles.css" type="text/css">
-
 ***
 
 ## Lahore University of Management Sciences (LUMS)

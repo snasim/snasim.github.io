@@ -3,8 +3,6 @@ title: "About Me"
 pagetitle: "About Sanval"
 ---
 
-<link rel="stylesheet" href="styles.css" type="text/css">
-
 ***
 
 <div style= "float:left; margin-right: 20px;">

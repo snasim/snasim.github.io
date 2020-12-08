@@ -1,9 +1,7 @@
 ---
-title: ""
-pagetitle: "Sanval Nasim's Homepage"
+title: ''
+pagetitle: Sanval Nasim's Homepage
 ---
-
-<link rel="stylesheet" href="styles.css" type="text/css">
 
 \
 

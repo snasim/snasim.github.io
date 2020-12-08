@@ -3,8 +3,6 @@ title: "Research"
 pagetitle: Sanval's Research
 ---
 
-<link rel="stylesheet" href="styles.css" type="text/css">
-
 ***
 
 ## Publications

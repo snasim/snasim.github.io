@@ -3,8 +3,6 @@ title: "Contact"
 pagetitle: "Contact Sanval"
 ---
 
-<link rel="stylesheet" href="styles.css" type="text/css">
-
 ***
 
 You can reach out to me at:
