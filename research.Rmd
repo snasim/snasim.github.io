@@ -58,11 +58,13 @@ An earlier version is [available](https://ebrary.ifpri.org/digital/collection/p1
 
 ## Working Papers
 
-### **[Charting Pakistan’s air quality policy landscape](https://www.theigc.org/wp-content/uploads/2021/06/Habib-March-2021-Final-report.pdf)**
+### **[Let Us Breathe!](files/Pollution.pdf)**
 
-(with Ali Habib and Amna Shahab), IGC Research Report E-21019-PAK-1IFPRI PSSP Working Paper 34, Washington DC: International Food Policy Research Institute, January 2015.
+(with Ali Habib and Amna Shahab)
 
-**Abstract:** We use a panel dataset of rural households in Pakistan to estimate the allocative inefficiency of groundwater, compare it across heterogeneous farms, and quantify its effect on land productivity. Heterogeneity (farm type) includes agricultural tenure, farm size, access to surface water and location on a watercourse. Estimation results show that sharecroppers have lower levels of technical inefficiency than owner-cultivators, although there was a high degree of inefficiency for both types. This suggests that sharecroppers compensate for other deficiencies—such as access to credit, capital, or irrigation—through superior technical efficiency. The results for the allocative efficiency of groundwater show significant differences in the utilization of groundwater across tenure, farm size, access to surface water and location on a watercourse. We also find that on average farms could increase income by 10 percent by allocating groundwater efficiently. The combination of empirical and policy results could help fill a knowledge gap about management alternatives for sustainable and productive use of groundwater in developing countries.
+An earlier version is [available](https://www.theigc.org/wp-content/uploads/2021/06/Habib-March-2021-Final-report.pdf) as IGC Research Project Report E-21019-PAK-1, London: International Growth Center, March 2021.
+
+**Abstract:** Air quality in lower and lower-middle income countries has considerably deteriorated over the past many years, affecting human capital and welfare. Even though many developing countries have strong air pollution rules and regulations on paper—with a comprehensive set of ambient air quality and emission standards—their air quality outcomes continue to stagnate. Why? We deconstruct this problem using Pakistan—a developing country with a rich history of environmental regulation but acute air pollution—as a case study, demonstrating that regulatory deficiencies, resource and capacity constraints, and imperfect information prevent environmental institutions from achieving their objectives. Poorly designed standards—governed by a command-and-control approach—paltry budgets, and missing data on source emissions and ambient air quality inhibit environmental institutions’ ability to monitor and enforce air quality regulations. Understanding how much citizens value better air quality (willingness to pay), employing source apportionment studies, and harnessing the “informal regulator” (civil society) offer opportunities to fill policy gaps and improve compliance.
 
 \
 
@@ -70,7 +72,7 @@ An earlier version is [available](https://ebrary.ifpri.org/digital/collection/p1
 
 (with Steven Helfand), IFPRI PSSP Working Paper 34, Washington DC: International Food Policy Research Institute, January 2015.
 
-**Abstract:** We use a panel dataset of rural households in Pakistan to estimate the allocative inefficiency of groundwater, compare it across heterogeneous farms, and quantify its effect on land productivity. Heterogeneity (farm type) includes agricultural tenure, farm size, access to surface water and location on a watercourse. Estimation results show that sharecroppers have lower levels of technical inefficiency than owner-cultivators, although there was a high degree of inefficiency for both types. This suggests that sharecroppers compensate for other deficiencies—such as access to credit, capital, or irrigation—through superior technical efficiency. The results for the allocative efficiency of groundwater show significant differences in the utilization of groundwater across tenure, farm size, access to surface water and location on a watercourse. We also find that on average farms could increase income by 10 percent by allocating groundwater efficiently. The combination of empirical and policy results could help fill a knowledge gap about management alternatives for sustainable and productive use of groundwater in developing countries.
+**Abstract:** In this paper, we examine the management of groundwater in Pakistan’s Indus Basin through a model of groundwater extraction with hydrologic, economic, and tenure constraints. We develop a groundwater extraction model for the Indus Basin and simulate the effect of common property management (the status quo in the Indus Basin) and optimal management on groundwater extractions, water table height, groundwater quality, and annual net benefits from irrigated agriculture. The analysis provides a framework to develop and discuss policies that could lead to the optimal management of groundwater.
 
 ***
 
