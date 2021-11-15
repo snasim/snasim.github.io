@@ -23,21 +23,21 @@ I obtained my PhD in Environmental and Natural Resource Economics and Policy fro
 ### Research Fields
 </p>
 
-I have an active research portfolio in the areas of:
+I an applied economist with an active research portfolio in the areas of:
 
 * Environmental and Natural Resource Economics
 
-* Applied Economics
+* Political Economy
 
 <p style="margin-top:1.5em;">
 ### Areas of Inquiry
 </p>
 
-I seek to understand:
+I study:
 
-* How policymakers in developing countries can better manage environmental quality and natural resources---especially groundwater---given institutional constraints that economic actors face in low-income settings;
+* Citizens’ behavior in response to deteriorating environmental quality in developing countries;
 
-* How provision of information---such as air pollution forecasts, water conservation tips, and firm emissions portfolios---can improve behavioral responses to environmental externalities.
+* State capacity in developing countries and how it relates to provision of public goods—I developed an interest in this area after observing how much policymakers in Pakistan struggle with addressing air pollution. 
 
 <p style="margin-top:1.5em;">
 ### Methods
@@ -45,14 +45,16 @@ I seek to understand:
 
 I rely on:
 
-* Dynamic optimization methods (dynamic programming and optimal control) to solve and simulate hydro-economic models;
+* Field experiments to identify effects and complement them with qualitative data to decipher mechanisms;
 
-* Applied methods (field experiments, lab-in-the-field experiments, and stochastic frontier analysis) based on field surveys to identify causal impacts and mechanisms.
+* Computational methods such as dynamic programming to simulate long-run dynamics of environmental problems.
 
 <p style="margin-top:1.5em;">
-### Funding
+### Publications and Funding
 </p>
 
-To support my research, I have raised funds close to $250,000 through grants from organizations such as the International Growth Center and the International Food and Policy Research Institute.
+My work has found a place in journals such as the *Journal of Public Economics* and *Resource and Energy Economics*.
+
+To support my research, I have raised funds close to $300,000 through grants from organizations such as the International Growth Center, the International Food and Policy Research Institute, and the United Nations Development Programme.
 
 ***
