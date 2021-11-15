@@ -5,7 +5,28 @@ pagetitle: Sanval's Research
 
 ***
 
+## Job Market Paper
+
+### **[Forecasts: Consumption, Production, and Behavioral Responses](files/JMP.pdf)**
+
+(with Husnain A. Fateh, Matthew Gibson, Fatiq Nadeem, and Arman Rezaee).
+
+[*Draft working paper available on request*]
+
+**Abstract:** Economic theory predicts forecasts are an important determinant of welfare. In developing countries, however, limited information and human capital may make it difficult for agents to produce accurate, precise forecasts. This plausibly limits the scope for optimal responses to uncertain future events. Focusing on air pollution, we explore how urban residents in the developing world solve forecasting problems in the presence of constraints on information and human capital. We implement a randomized controlled trial in Lahore, Pakistan to study the effects on forecast consumption, production, and behavioral responses from two randomized interventions in Lahore, Pakistan: 1) provision of one-day ahead air pollution forecasts; and 2) general forecasting training aimed at reducing behavioral biases. On average, subjects exposed to forecasts are willing to pay roughly 60 percent of the cost of mobile internet access to continue receiving them. Both interventions reduce air pollution forecast error, and receipt of forecasts increase demand for protective masks. These results document substantial demand for forecasts among urban residents in the developing world. They suggest that modest educational interventions may durably improve forecasting-relevant human capital.
+
+***
+
 ## Publications
+
+### **[Building Trust in the State with Information: Evidence from Urban Punjab](https://doi.org/10.1016/j.jpubeco.2021.104494)**
+
+(with Adnan Khan, Mahvish Shaukat, and Andreas Stegmann), *Journal of Public Economics*, 202, October 2021: 104494.
+
+
+**Abstract:** Can communication designed to increase support for government policy and shift perceptions of state capacity redress deep-rooted mistrust in state institutions? This paper finds providing information on past state effectiveness, highlighting citizens’ cooperation in enabling past effectiveness or appealing to religious authorities’ support for government policy have limited impact on support for policy, perceptions of state capacity and trust in the state in Pakistan. This holds true on average and across important dimensions of heterogeneity after comparing treatment effects to those induced by an experimenter demand treatment. This paper highlights the limits of using information to build trust in state institutions, and the importance of measuring experimenter demand.
+
+\
 
 ### **[Groundwater Management under Heterogeneous Land Tenure Arrangements](https://doi.org/10.1016/j.reseneeco.2020.101203)**
 
@@ -25,28 +46,35 @@ pagetitle: Sanval's Research
 
 ## Under Review
 
-### **[Building Trust in the State with Information: Evidence from Urban Punjab](https://documents.worldbank.org/en/publication/documents-reports/documentdetail/188481604516771120/building-trust-in-the-state-with-information-evidence-from-urban-punjab)**
+### **Groundwater utilization under varied farm-level characteristics: Evidence and policy from a developing country context**
 
-(with Adnan Khan, Mahvish Shaukat, and Andreas Stegmann).
+(with Ariel Dinar and Steven Helfand).
 
-Available as Policy Research Working Paper WPS9469, Impact Evaluation Series, Washington DC: The World Bank Group, November 2020.
+An earlier version is [available](https://ebrary.ifpri.org/digital/collection/p15738coll2/id/128005/rec/10) as IFPRI PSSP Working Paper 15, Washington DC: International Food Policy Research Institute, January 2014.
 
-**Abstract:** Citizens in developing countries often distrust state institutions and their ability to provide public services. In this paper, we conduct a phone-based experiment to study whether communication designed to increase support for government policy and shift perceptions of state capacity redress deep-rooted mistrust in state institutions. We leverage randomly assigned informational treatments with 5,771 respondents in Lahore and Faisalabad, the two most-populous cities in Pakistan's Punjab province. We find providing information on past state effectiveness, highlighting citizens' cooperation in enabling past effectiveness or appealing to religious authorities' support for government policy have limited impact on support for policy, perceptions of state capacity, and trust in the state in Pakistan. This holds true on average and across important dimensions of heterogeneity after accounting for experimenter demand. Our work highlights the limits of using information to build trust in state institutions, and the importance of measuring experimenter demand.
+**Abstract:** We use a panel dataset of rural households in Pakistan to estimate the allocative inefficiency of groundwater, compare it across heterogeneous farms, and quantify its effect on land productivity. Heterogeneity (farm type) includes agricultural tenure, farm size, access to surface water and location on a watercourse. Estimation results show that sharecroppers have lower levels of technical inefficiency than owner-cultivators, although there was a high degree of inefficiency for both types. This suggests that sharecroppers compensate for other deficiencies—such as access to credit, capital, or irrigation—through superior technical efficiency. The results for the allocative efficiency of groundwater show significant differences in the utilization of groundwater across tenure, farm size, access to surface water and location on a watercourse. We also find that on average farms could increase income by 10 percent by allocating groundwater efficiently. The combination of empirical and policy results could help fill a knowledge gap about management alternatives for sustainable and productive use of groundwater in developing countries.
 
 ***
 
 ## Working Papers
 
+### **[Charting Pakistan’s air quality policy landscape](https://www.theigc.org/wp-content/uploads/2021/06/Habib-March-2021-Final-report.pdf)**
 
-### **[Forecasts: Consumption, Production, and Behavioral Responses](https://www.socialscienceregistry.org/trials/4343)**
+(with Ali Habib and Amna Shahab), IGC Research Report E-21019-PAK-1IFPRI PSSP Working Paper 34, Washington DC: International Food Policy Research Institute, January 2015.
 
-(with Husnain A. Fateh, Matthew Gibson, Fatiq Nadeem, and Arman Rezaee).
-
-[*Draft working paper available on request*]
-
-**Abstract:** Economic theory predicts forecasts are an important determinant of welfare. In developing countries, however, limited information and human capital may make it difficult for agents to produce accurate, precise forecasts. This plausibly limits the scope for optimal responses to uncertain future events. In this paper, we explore how urban residents in the developing world solve forecasting problems in the presence of constraints on information and human capital. We implement a randomized controlled trial in Lahore, Pakistan to study the effects on forecast consumption, production, and behavioral responses from two randomized interventions in Lahore, Pakistan: 1) provision of one-day ahead air pollution forecasts; and 2) general forecasting training aimed at reducing behavioral biases. On average, subjects exposed to forecasts are willing to pay roughly 60 percent of the cost of mobile internet access to continue receiving them. Both interventions reduce air pollution forecast error, and receipt of forecasts increase demand for protective masks. These results document substantial demand for forecasts among urban residents in the developing world. They suggest that modest educational interventions may durably improve forecasting-relevant human capital.
+**Abstract:** We use a panel dataset of rural households in Pakistan to estimate the allocative inefficiency of groundwater, compare it across heterogeneous farms, and quantify its effect on land productivity. Heterogeneity (farm type) includes agricultural tenure, farm size, access to surface water and location on a watercourse. Estimation results show that sharecroppers have lower levels of technical inefficiency than owner-cultivators, although there was a high degree of inefficiency for both types. This suggests that sharecroppers compensate for other deficiencies—such as access to credit, capital, or irrigation—through superior technical efficiency. The results for the allocative efficiency of groundwater show significant differences in the utilization of groundwater across tenure, farm size, access to surface water and location on a watercourse. We also find that on average farms could increase income by 10 percent by allocating groundwater efficiently. The combination of empirical and policy results could help fill a knowledge gap about management alternatives for sustainable and productive use of groundwater in developing countries.
 
 \
+
+### **[Optimal groundwater management in Pakistan’s Indus Water Basin](http://ebrary.ifpri.org/digital/collection/p15738coll2/id/130109)**
+
+(with Steven Helfand), IFPRI PSSP Working Paper 34, Washington DC: International Food Policy Research Institute, January 2015.
+
+**Abstract:** We use a panel dataset of rural households in Pakistan to estimate the allocative inefficiency of groundwater, compare it across heterogeneous farms, and quantify its effect on land productivity. Heterogeneity (farm type) includes agricultural tenure, farm size, access to surface water and location on a watercourse. Estimation results show that sharecroppers have lower levels of technical inefficiency than owner-cultivators, although there was a high degree of inefficiency for both types. This suggests that sharecroppers compensate for other deficiencies—such as access to credit, capital, or irrigation—through superior technical efficiency. The results for the allocative efficiency of groundwater show significant differences in the utilization of groundwater across tenure, farm size, access to surface water and location on a watercourse. We also find that on average farms could increase income by 10 percent by allocating groundwater efficiently. The combination of empirical and policy results could help fill a knowledge gap about management alternatives for sustainable and productive use of groundwater in developing countries.
+
+***
+
+## Ongoing Projects
 
 ### **Does conservation messaging reduce urban water consumption?**
 
@@ -54,7 +82,7 @@ Available as Policy Research Working Paper WPS9469, Impact Evaluation Series, Wa
 
 [*Preliminary draft available on request*]
 
-**Abstract:** Cities in developing countries often lack water meters to gauge volumetric consumption, which inhibits water utilities' capacity to price the resource. Given the difficulty of establishing volumetric pricing schemes in unmetered settings, do informational nudges provide water utilities an effective alternative to incentivize reductions in household water consumption? To answer this question, we conduct a randomized controlled trial in Islamabad, Pakistan. Our treatment includes three different intervention materials: an infographics poster depicting water conservation tips; a calendar with a religious message on water conservation (religious calendar); and a calendar with a message on potential financial loss due to water scarcity (loss aversion calendar). We find that the intervention material pushes the willingness to conserve in the right direction for most respondents in our treatment arms. Our results suggest that informational messages offer policymakers a low-cost alternative to nudge urban households to conserve water in their homes.
+**Abstract:** Cities in developing countries often lack water meters to gauge volumetric consumption, which inhibits water utilities' capacity to price the resource. Given the difficulty of establishing volumetric pricing schemes in unmetered settings, do informational nudges provide water utilities an effective alternative to incentivize households to reduce their water consumption? To answer this question, we conduct a randomized controlled trial in Islamabad, Pakistan. Our treatment includes three different intervention materials: an infographics poster depicting water conservation tips; a calendar with a religious message on water conservation (religious calendar); and a calendar with a message on potential financial loss due to water scarcity (loss aversion calendar). We find that the intervention material pushes the willingness to conserve in the right direction for most respondents in our treatment arms. Our results suggest that informational messages offer policymakers a low-cost alternative to nudge urban households to conserve water in their homes.
 
 \
 
