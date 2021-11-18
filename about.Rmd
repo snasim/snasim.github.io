@@ -13,7 +13,7 @@ knitr::include_graphics("images/profile1.png")
 
 Welcome!
 
-I am Assistant Professor of Economics at the Lahore University of Management Sciences ([LUMS](https://lums.edu.pk)).
+I am an Assistant Professor of Economics at the Lahore University of Management Sciences ([LUMS](https://lums.edu.pk)).
 
 I am also a research fellow at the Center for Economic Research in Pakistan ([CERP](https://www.cerp.org.pk)), the Institute of Development and Economic Alternatives ([IDEAS](https://ideaspak.org)), the Mahbub ul Haq Research Centre ([MHRC](https://mhrc.lums.edu.pk)), and the Center for Water Informatics and Technology ([WIT](https://wit.lums.edu.pk)).
 
@@ -23,7 +23,7 @@ I obtained my PhD in Environmental and Natural Resource Economics and Policy fro
 ### Research Fields
 </p>
 
-I an applied economist with an active research portfolio in the areas of:
+I am an applied economist with an active research portfolio in the areas of:
 
 * Environmental and Natural Resource Economics
 
