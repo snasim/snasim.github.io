@@ -19,4 +19,4 @@ knitr::include_graphics("images/banner1.png")
 
 <font size="5">Assistant Professor of Economics</font>
 
-<font size="5">Lahore University of Management Sciences (LUMS)</font>
+<font size="5">Colby College</font>

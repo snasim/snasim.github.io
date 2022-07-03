@@ -13,11 +13,11 @@ knitr::include_graphics("images/profile1.png")
 
 Welcome!
 
-I am an Assistant Professor of Economics at the Lahore University of Management Sciences ([LUMS](https://lums.edu.pk)).
+I am an Assistant Professor of Economics at [Colby College](https://www.colby.edu), where I also did my undergrad (2008), majoring in Economics-Mathematics and in History.
 
-I am also a research fellow at the Center for Economic Research in Pakistan ([CERP](https://www.cerp.org.pk)), the Institute of Development and Economic Alternatives ([IDEAS](https://ideaspak.org)), the Mahbub ul Haq Research Centre ([MHRC](https://mhrc.lums.edu.pk)), and the Center for Water Informatics and Technology ([WIT](https://wit.lums.edu.pk)).
+I serve as a research fellow at the Center for Economic Research in Pakistan ([CERP](https://www.cerp.org.pk)), the Institute of Development and Economic Alternatives ([IDEAS](https://ideaspak.org)), the Mahbub ul Haq Research Centre ([MHRC](https://mhrc.lums.edu.pk)), and the Center for Water Informatics and Technology ([WIT](https://wit.lums.edu.pk)).
 
-I obtained my PhD in Environmental and Natural Resource Economics and Policy from the University of California, Riverside in 2015 and a BA in Economics-Mathematics and in History from Colby College in 2008.
+Before joining Colby, I was an Assistant Professor of Economics at the Lahore University of Management Sciences ([LUMS](https://www.colby.edu)) in Pakistan. I obtained my PhD in Environmental and Natural Resource Economics and Policy from the University of California, Riverside in 2015.
 
 <p style="margin-top:1.5em;">
 ### Research Fields
