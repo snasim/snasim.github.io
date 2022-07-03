@@ -5,9 +5,15 @@ pagetitle: "Sanval's Teaching"
 
 ***
 
+## Colby College
+
+Environmental and Natural Resource Economics (EC231): Fall 2022
+
+***
+
 ## Lahore University of Management Sciences (LUMS)
 
-Introduction to Environmental Economics (ECON 244): Fall 2016, Fall 2017, Spring 2020, Spring 2021
+Introduction to Environmental Economics (ECON 244): Fall 2016, Fall 2017, Spring 2020, Spring 2021, Sprinf 2022
 
 Mathematical Applications in Economics (ECON 262): Spring 2017, Fall 2018, Fall 2019, Fall 2020, Fall 2021
 
@@ -31,6 +37,6 @@ Introduction to Environmental Sciences (ENSC 003): Spring 2012, *teaching assist
 
 ## Pre Grad School
 
-Many years ago, when I was a senior in college, I worked as an Economics Tutor to help students grasp concepts covered in their principles courses. I consider this my first foray into teaching.
+Many years ago, when I was a senior at Colby College, I worked as an Economics Tutor to help students grasp concepts covered in their principles courses. I consider this my first foray into teaching.
 
 ***

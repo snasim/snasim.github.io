@@ -7,11 +7,7 @@ pagetitle: Sanval's Research
 
 ## Job Market Paper
 
-### **[Forecasts: Consumption, Production, and Behavioral Responses](files/JMP.pdf)**
 
-(with Husnain A. Fateh, Matthew Gibson, Fatiq Nadeem, and Arman Rezaee)
-
-**Abstract:** Economic theory predicts forecasts are an important determinant of welfare. In developing countries, however, limited information and human capital may make it difficult for agents to produce accurate, precise forecasts. This plausibly limits the scope for optimal responses to uncertain future events. Focusing on air pollution, we explore how urban residents in the developing world solve forecasting problems in the presence of constraints on information and human capital. We implement a randomized controlled trial in Lahore, Pakistan to study the effects on forecast consumption, production, and behavioral responses from two randomized interventions in Lahore, Pakistan: 1) provision of one-day ahead air pollution forecasts; and 2) general forecasting training aimed at reducing behavioral biases. On average, subjects exposed to forecasts are willing to pay roughly 60 percent of the cost of mobile internet access to continue receiving them. Both interventions reduce air pollution forecast error, and receipt of forecasts increase demand for protective masks. These results document substantial demand for forecasts among urban residents in the developing world. They suggest that modest educational interventions may durably improve forecasting-relevant human capital.
 
 ***
 
@@ -56,6 +52,26 @@ An earlier version is [available](https://ebrary.ifpri.org/digital/collection/p1
 
 ## Working Papers
 
+### **[Political Identity and Foreign Aid Efficacy: Evidence from Pakistani Schools]**
+
+(with Andreas Stegmann)
+
+[Preliminary draft available on request]
+
+**Abstract:** We conduct a field experiment to study whether concerns to preserve an anti-liberal self-image affect low cost, private school owners’ willingness to explore a collaboration with a liberal Pakistani NGO. While explicitly revealing the NGO’s liberal motivation to school owners has a significant impact on beliefs about the NGO’s objectives, on average, we find only limited evidence that treated school owners are less willing to explore a collaboration with our partner NGO. However, heterogeneous treatment effects suggest that differences in political identity cause negative reactions among the minority of school owners expressing conservative beliefs during a seemingly unrelated follow-up survey.
+
+\
+
+### **[Forecasts: Consumption, Production, and Behavioral Responses]**
+
+(with Husnain A. Fateh, Matthew Gibson, Fatiq Nadeem, and Arman Rezaee)
+
+[Preliminary draft available on request]
+
+**Abstract:** Economic theory predicts forecasts are an important determinant of welfare. In developing countries, however, limited information and human capital may make it difficult for agents to produce accurate, precise forecasts. This plausibly limits the scope for optimal responses to uncertain future events. Focusing on air pollution, we explore how urban residents in the developing world solve forecasting problems in the presence of constraints on information and human capital. We implement a randomized controlled trial in Lahore, Pakistan to study the effects on forecast consumption, production, and behavioral responses from two randomized interventions in Lahore, Pakistan: 1) provision of one-day ahead air pollution forecasts; and 2) general forecasting training aimed at reducing behavioral biases. On average, subjects exposed to forecasts are willing to pay roughly 60 percent of the cost of mobile internet access to continue receiving them. Both interventions reduce air pollution forecast error, and receipt of forecasts increase demand for protective masks. These results document substantial demand for forecasts among urban residents in the developing world. They suggest that modest educational interventions may durably improve forecasting-relevant human capital.
+
+\
+
 ### **[Let Us Breathe!](files/Pollution.pdf)**
 
 (with Ali Habib and Amna Shahab)
@@ -80,19 +96,11 @@ An earlier version is [available](https://www.theigc.org/wp-content/uploads/2021
 
 \
 
-### **The elasticity of the expression of political Identity: Evidence from a field experiment in Pakistan**
-
-(with Andreas Stegmann)
-
-*Supported by the Royal Economic Society and CAGE with funds totaling £15,000*
-
-\
-
 ### **Belief formation, signal quality, and information sources: Experimental evidence on air quality from Pakistan**
 
 (with Matthew Gibson, Shotaro Nakamura, and Arman Rezaee)
 
-*Supported by the International Growth Center with funds totaling £15,000*
+*Supported by the International Growth Center with funds totaling £35,000*
 
 \
 
