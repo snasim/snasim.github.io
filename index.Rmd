@@ -22,3 +22,5 @@ knitr::include_graphics("images/banner1.png")
 <font size="5">Colby College</font>
 
 <font size="4">snasim@colby.edu</font>
+
+<font size="4">(On sabbatical till August 2024)</font>
