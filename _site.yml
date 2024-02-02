@@ -14,8 +14,8 @@ navbar:
   right:
     - icon: fa-envelope fa-lg
       href: contact.html
-    - icon: fa-github fa-lg
-      href: http://github.com/snasim
+  # - icon: fa-github fa-lg
+  #   href: http://github.com/snasim
     - icon: fa-twitter fa-lg
       href: https://twitter.com/sanvalnasim
 output:

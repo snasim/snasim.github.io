@@ -1,6 +1,6 @@
 ---
 title: "Research"
-pagetitle: Sanval's Research
+pagetitle: "Sanval's Research"
 ---
 
 ***

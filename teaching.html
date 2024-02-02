@@ -13,7 +13,7 @@
 
 <title>Sanval’s Teaching</title>
 
-<script src="site_libs/header-attrs-2.11/header-attrs.js"></script>
+<script src="site_libs/header-attrs-2.25/header-attrs.js"></script>
 <script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <link href="site_libs/bootstrap-3.3.5/css/flatly.min.css" rel="stylesheet" />
@@ -32,8 +32,8 @@
 <script src="site_libs/navigation-1.1/tabsets.js"></script>
 <link href="site_libs/highlightjs-9.12.0/default.css" rel="stylesheet" />
 <script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
-<link href="site_libs/font-awesome-5.1.0/css/all.css" rel="stylesheet" />
-<link href="site_libs/font-awesome-5.1.0/css/v4-shims.css" rel="stylesheet" />
+<link href="site_libs/font-awesome-6.4.2/css/all.min.css" rel="stylesheet" />
+<link href="site_libs/font-awesome-6.4.2/css/v4-shims.min.css" rel="stylesheet" />
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-S5MVE1NJK7"></script>
 <script>
@@ -68,6 +68,7 @@ if (window.hljs) {
 
 
 
+
 <link rel="stylesheet" href="styles.css" type="text/css" />
 
 
@@ -92,6 +93,9 @@ button.code-folding-btn:focus {
 }
 summary {
   display: list-item;
+}
+details > summary > p:only-child {
+  display: inline;
 }
 pre code {
   padding: 0;
@@ -149,11 +153,15 @@ $(document).ready(function () {
     href = "index.html";
   var menuAnchor = $('a[href="' + href + '"]');
 
-  // mark it active
-  menuAnchor.tab('show');
-
-  // if it's got a parent navbar menu mark it active as well
-  menuAnchor.closest('li.dropdown').addClass('active');
+  // mark the anchor link active (and if it's in a dropdown, also mark that active)
+  var dropdown = menuAnchor.closest('li.dropdown');
+  if (window.bootstrap) { // Bootstrap 4+
+    menuAnchor.addClass('active');
+    dropdown.find('> .dropdown-toggle').addClass('active');
+  } else { // Bootstrap 3
+    menuAnchor.parent().addClass('active');
+    dropdown.addClass('active');
+  }
 
   // Navbar adjustments
   var navHeight = $(".navbar").first().height() + 15;
@@ -182,8 +190,8 @@ $(document).ready(function () {
   border-radius: 4px;
 }
 
-.tabset-dropdown > .nav-tabs > li.active:before {
-  content: "";
+.tabset-dropdown > .nav-tabs > li.active:before, .tabset-dropdown > .nav-tabs.nav-tabs-open:before {
+  content: "\e259";
   font-family: 'Glyphicons Halflings';
   display: inline-block;
   padding: 10px;
@@ -191,16 +199,9 @@ $(document).ready(function () {
 }
 
 .tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
-  content: "&#xe258;";
-  border: none;
-}
-
-.tabset-dropdown > .nav-tabs.nav-tabs-open:before {
-  content: "";
+  content: "\e258";
   font-family: 'Glyphicons Halflings';
-  display: inline-block;
-  padding: 10px;
-  border-right: 1px solid #ddd;
+  border: none;
 }
 
 .tabset-dropdown > .nav-tabs > li.active {
@@ -244,7 +245,7 @@ $(document).ready(function () {
 <div class="navbar navbar-default  navbar-fixed-top" role="navigation">
   <div class="container">
     <div class="navbar-header">
-      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-bs-toggle="collapse" data-target="#navbar" data-bs-target="#navbar">
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
@@ -274,12 +275,6 @@ $(document).ready(function () {
   </a>
 </li>
 <li>
-  <a href="http://github.com/snasim">
-    <span class="fa fa-github fa-lg"></span>
-     
-  </a>
-</li>
-<li>
   <a href="https://twitter.com/sanvalnasim">
     <span class="fa fa-twitter fa-lg"></span>
      
@@ -302,13 +297,15 @@ $(document).ready(function () {
 <hr />
 <div id="colby-college" class="section level2">
 <h2>Colby College</h2>
+<p>Challenges of the Anthropocene: Views from the Global South (EC468): Spring 2023</p>
+<p>Econometrics (EC393): Spring 2023</p>
 <p>Environmental and Natural Resource Economics (EC231): Fall 2022</p>
 <hr />
 </div>
 <div id="lahore-university-of-management-sciences-lums" class="section level2">
 <h2>Lahore University of Management Sciences (LUMS)</h2>
-<p>Introduction to Environmental Economics (ECON 244): Fall 2016, Fall 2017, Spring 2020, Spring 2021, Sprinf 2022</p>
-<p>Mathematical Applications in Economics (ECON 262): Spring 2017, Fall 2018, Fall 2019, Fall 2020, Fall 2021</p>
+<p>Introduction to Environmental Economics (ECON 244): Fall 2017, 2016; Spring 2022, 2021, 2020</p>
+<p>Mathematical Applications in Economics (ECON 262): Fall 2021, 2020, 2019; 2018; Spring 2017</p>
 <p>Advanced Environmental and Natural Resource Economics (ECON 3420): Fall 2017</p>
 <p>Topics in Environmental and Natural Resource Economics (ECON 440): Spring 2018</p>
 <p>Principles of Macroeconomics (ECON 121): Spring 2019</p>
@@ -317,7 +314,7 @@ $(document).ready(function () {
 </div>
 <div id="university-of-california-riverside" class="section level2">
 <h2>University of California, Riverside</h2>
-<p>Introduction to Environmental Economics (ENSC 006): Fall 2013, Fall 2014, <em>teaching assistant to Prof. Ariel Dinar</em></p>
+<p>Introduction to Environmental Economics (ENSC 006): Fall 2014, 2013, <em>teaching assistant to Prof. Ariel Dinar</em></p>
 <p>Introduction to Environmental Sciences (ENSC 003): Spring 2012, <em>teaching assistant to Prof. David Crohn</em></p>
 <hr />
 </div>

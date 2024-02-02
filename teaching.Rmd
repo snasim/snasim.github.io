@@ -7,15 +7,19 @@ pagetitle: "Sanval's Teaching"
 
 ## Colby College
 
+Challenges of the Anthropocene: Views from the Global South (EC468): Spring 2023
+
+Econometrics (EC393): Spring 2023
+
 Environmental and Natural Resource Economics (EC231): Fall 2022
 
 ***
 
 ## Lahore University of Management Sciences (LUMS)
 
-Introduction to Environmental Economics (ECON 244): Fall 2016, Fall 2017, Spring 2020, Spring 2021, Sprinf 2022
+Introduction to Environmental Economics (ECON 244): Fall 2017, 2016; Spring 2022, 2021, 2020
 
-Mathematical Applications in Economics (ECON 262): Spring 2017, Fall 2018, Fall 2019, Fall 2020, Fall 2021
+Mathematical Applications in Economics (ECON 262): Fall 2021, 2020, 2019; 2018; Spring 2017
 
 Advanced Environmental and Natural Resource Economics (ECON 3420): Fall 2017
 
@@ -29,7 +33,7 @@ A Survey of the History of Economic Thought (ECON 201): Fall 2020
 
 ## University of California, Riverside
 
-Introduction to Environmental Economics (ENSC 006): Fall 2013, Fall 2014, *teaching assistant to Prof. Ariel Dinar*
+Introduction to Environmental Economics (ENSC 006): Fall 2014, 2013, *teaching assistant to Prof. Ariel Dinar*
 
 Introduction to Environmental Sciences (ENSC 003): Spring 2012, *teaching assistant to Prof. David Crohn*
 
