@@ -13,48 +13,12 @@ knitr::include_graphics("images/profile1.png")
 
 Welcome!
 
-I am an Assistant Professor of Economics at [Colby College](https://www.colby.edu), where I also did my undergrad (2008), majoring in Economics-Mathematics and in History.
+I'm an Assistant Professor of Economics at [Colby College](https://www.colby.edu). I'm on sabbatical this academic year (June 2023 -- August 2024), which I'm spending traveling in Asia.
 
-I serve as a research fellow at the Center for Economic Research in Pakistan ([CERP](https://www.cerp.org.pk)), the Institute of Development and Economic Alternatives ([IDEAS](https://ideaspak.org)), the Mahbub ul Haq Research Centre ([MHRC](https://mhrc.lums.edu.pk)), and the Center for Water Informatics and Technology ([WIT](https://wit.lums.edu.pk)).
+My research interests lie in environment and political economy. I study: 1) citizens’ behavior in response to deteriorating environmental quality (air pollution, groundwater depletion, climate change) in developing countries; and 2) state capacity in developing countries and how it relates to provision of public goods.
 
-Before joining Colby, I was an Assistant Professor of Economics at the Lahore University of Management Sciences ([LUMS](https://www.colby.edu)) in Pakistan. I obtained my PhD in Environmental and Natural Resource Economics and Policy from the University of California, Riverside in 2015.
+I serve as a research fellow at the Institute of Development and Economic Alternatives ([IDEAS](https://ideaspak.org)), the Center for Economic Research in Pakistan ([CERP](https://www.cerp.org.pk)), and the Mahbub ul Haq Research Centre ([MHRC](https://mhrc.lums.edu.pk)).
 
-<p style="margin-top:1.5em;">
-### Research Fields
-</p>
-
-I am an applied economist with an active research portfolio in the areas of:
-
-* Environmental and Natural Resource Economics
-
-* Political Economy
-
-<p style="margin-top:1.5em;">
-### Areas of Inquiry
-</p>
-
-I study:
-
-* Citizens’ behavior in response to deteriorating environmental quality in developing countries;
-
-* State capacity in developing countries and how it relates to provision of public goods—I developed an interest in this area after observing how much policymakers in Pakistan struggle with addressing air pollution. 
-
-<p style="margin-top:1.5em;">
-### Methods
-</p>
-
-I rely on:
-
-* Field experiments to identify effects and complement them with qualitative data to decipher mechanisms;
-
-* Computational methods such as dynamic programming to simulate long-run dynamics of environmental problems.
-
-<p style="margin-top:1.5em;">
-### Publications and Funding
-</p>
-
-My work has found a place in journals such as the *Journal of Public Economics* and *Resource and Energy Economics*.
-
-To support my research, I have raised funds close to $300,000 through grants from organizations such as the International Growth Center, the International Food and Policy Research Institute, and the United Nations Development Programme.
+Before joining Colby, I was an Assistant Professor of Economics at the Lahore University of Management Sciences ([LUMS](https://www.colby.edu)) in Pakistan. I hold a Ph.D. in Environmental and Natural Resource Economics and Policy from the University of California, Riverside (2015) and a B.A. from Colby College (2008).
 
 ***

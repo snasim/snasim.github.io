@@ -14,10 +14,10 @@ navbar:
   right:
     - icon: fa-envelope fa-lg
       href: contact.html
+    - icon: fa-twitter fa-lg
+      href: https://twitter.com/sanvalnasim
     - icon: fa-github fa-lg
       href: http://github.com/snasim
-    - icon: fa-square-x-twitter fa-lg
-      href: https://twitter.com/sanvalnasim
 output:
   html_document:
     fig_caption: yes

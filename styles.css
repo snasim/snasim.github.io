@@ -34,3 +34,7 @@ body {
 img-circle {
     border-radius: 50%;
 }
+p.caption {
+  font-size: 0.8em;
+  font-style: italic;
+}
