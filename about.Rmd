@@ -6,8 +6,8 @@ pagetitle: "About Sanval"
 ***
 
 <div style= "float:left; margin-right: 20px;">
-```{r, echo=FALSE, fig.algn="left", out.width="250px"}
-knitr::include_graphics("images/profile1.jpg")
+```{r, echo=FALSE, fig.algn="left", out.width="300px"}
+knitr::include_graphics("images/profile3.jpg")
 ```
 </div>
 

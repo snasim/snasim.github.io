@@ -8,8 +8,8 @@ pagetitle: "Sanval Nasim's Homepage"
 \
 
 <div style= "float:left; margin-right: 40px;">
-```{r, echo=FALSE, fig.algn="left", out.width="500px", fig.cap="Art of manuscript illumination by Anum Malkani", out.extra='style="background-color: black; padding: 15px;"'}
-knitr::include_graphics("images/banner1.jpg")
+```{r, echo=FALSE, fig.algn="left", out.width="500px", fig.cap="Farmers by Ali Imam", out.extra='style="background-color: black; padding: 7px;"'}
+knitr::include_graphics("images/banner3.jpeg")
 ```
 </div>
 
