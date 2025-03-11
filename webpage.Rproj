@@ -1,4 +1,9 @@
 Version: 1.0
+<<<<<<< HEAD
+ProjectId: eb0bb5cc-4808-4727-af0f-2a65b95e1596
+=======
+ProjectId: 315c1cbc-58b9-4890-8e38-5e6e75fc5d75
+>>>>>>> 9cb0e57 (Saving local changes before pulling)
 
 RestoreWorkspace: Default
 SaveWorkspace: Default

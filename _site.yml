@@ -21,7 +21,7 @@ navbar:
 output:
   html_document:
     fig_caption: yes
-    theme: flatly
+    theme: yeti
     css: 'styles.css'
     includes:
       in_header: google_analytics_script.html

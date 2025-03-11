@@ -23,4 +23,4 @@ knitr::include_graphics("images/banner3.jpeg")
 
 <font size="4">snasim@colby.edu</font>
 
-<font size="4">(On sabbatical June 2023 -- August 2024)</font>
+<font size="4">snasim@colby.edu</font>

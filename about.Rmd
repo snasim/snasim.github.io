@@ -13,7 +13,7 @@ knitr::include_graphics("images/profile3.jpg")
 
 Welcome!
 
-I'm an Assistant Professor of Economics at [Colby College](https://www.colby.edu). I'm on sabbatical this academic year (June 2023 -- August 2024), which I'm spending traveling in Asia.
+I'm an Assistant Professor of Economics at [Colby College](https://www.colby.edu).
 
 My research interests lie in environment and political economy. I study: 1) citizens’ behavior in response to deteriorating environmental quality (air pollution, groundwater depletion, climate change) in developing countries; and 2) state capacity in developing countries and how it relates to provision of public goods.
 
