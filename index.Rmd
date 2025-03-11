@@ -22,5 +22,3 @@ knitr::include_graphics("images/banner3.jpeg")
 <font size="5">Colby College</font>
 
 <font size="4">snasim@colby.edu</font>
-
-<font size="4">snasim@colby.edu</font>
