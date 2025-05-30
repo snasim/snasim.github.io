@@ -5,8 +5,8 @@ pagetitle: "Sanval's Research"
 
 <style>
 .publication-title {
-margin-left:1.5em;
-text-indent:-1.5em;
+margin-left:3em;
+text-indent:-3em;
 margin-bottom:0em;
 }
 .publication-entry {
@@ -60,6 +60,8 @@ margin-top:0.75em;
 </details>
 </div>
 </div>
+
+
 <div class="publication-entry">
 <div class="publication-title">
 <span>2.</span> "<a href="https://doi.org/10.1016/j.reseneeco.2020.101203">Groundwater Management under Heterogeneous Land Tenure Arrangements</a>" (2020)
@@ -74,6 +76,8 @@ margin-top:0.75em;
 </details>
 </div>
 </div>
+
+
 <div class="publication-entry">
 <div class="publication-title">
 <span>1.</span> "<a href="https://doi.org/10.1016/j.jclepro.2020.120553">To adopt, or not to adopt, ‘why’ is the question: A case for clean kiln technologies in developing countries</a>" (2020)
@@ -88,22 +92,33 @@ margin-top:0.75em;
 </details>
 </div>
 </div>
-***
-
-
-## Under Review
-
-### **Groundwater utilization under varied farm-level characteristics: Evidence and policy from a developing country context**
-
-(First author, with Ariel Dinar and Steven Helfand), Revise and Resubmit at *Water Resources Research*
-
-An earlier version is [available](https://ebrary.ifpri.org/digital/collection/p15738coll2/id/128005/rec/10) as IFPRI PSSP Working Paper 15, Washington DC: International Food Policy Research Institute, January 2014.
-
-**Abstract:** We use a panel dataset of rural households in Pakistan to estimate the allocative inefficiency of groundwater, compare it across heterogeneous farms, and quantify its effect on land productivity. Heterogeneity (farm type) includes agricultural tenure, farm size, access to surface water and location on a watercourse. Estimation results show that sharecroppers have lower levels of technical inefficiency than owner-cultivators, although there was a high degree of inefficiency for both types. This suggests that sharecroppers compensate for other deficiencies—such as access to credit, capital, or irrigation—through superior technical efficiency. The results for the allocative efficiency of groundwater show significant differences in the utilization of groundwater across tenure, farm size, access to surface water and location on a watercourse. We also find that on average farms could increase income by 10 percent by allocating groundwater efficiently. The combination of empirical and policy results could help fill a knowledge gap about management alternatives for sustainable and productive use of groundwater in developing countries.
 
 ***
+
 
 ## Working Papers
+
+<div class="publication-entry">
+<div class="publication-title">
+<span>
+"Expectations and Adaptation to Environmental Threats" with Husnain Fateh, Matthew Gibson, Fatiq Nadeem, and Arman Rezaee, <em>Revise & Resubmit</em>, <strong><em>The Economic Journal</em></strong>
+</span>
+<details class="inline-toggle">
+<summary></summary>
+<div class="abstract-block">
+<p><strong>Abstract:</strong> Scarce information and human capital may make it difficult to form accurate expectations, limiting responses to uncertain environmental threats like air pollution. We study two cross-randomized interventions in Lahore, Pakistan: 1) general training in forecasting; 2) provision of air pollution forecasts. Both reduced subjects’ own air pollution forecast errors; the training effect suggests that modest educational interventions can durably improve forecasting skills. Forecast receipt increased demand for protective masks and the responsiveness of outdoor time to pollution. Forecast recipients were willing to pay 41 percent of their total mobile phone costs for continued access, consistent with welfare gains from adaptation.</p>
+</div>
+</details>
+</div>
+</div>
+
+### **Forecasts: Consumption, Production, and Behavioral Responses**
+
+(with Husnain A. Fateh, Matthew Gibson, Fatiq Nadeem, and Arman Rezaee)
+
+[Preliminary draft available on request]
+
+**Abstract:** Economic theory predicts forecasts are an important determinant of welfare. In developing countries, however, limited information and human capital may make it difficult for agents to produce accurate, precise forecasts. This plausibly limits the scope for optimal responses to uncertain future events. Focusing on air pollution, we explore how urban residents in the developing world solve forecasting problems in the presence of constraints on information and human capital. We implement a randomized controlled trial in Lahore, Pakistan to study the effects on forecast consumption, production, and behavioral responses from two randomized interventions in Lahore, Pakistan: 1) provision of one-day ahead air pollution forecasts; and 2) general forecasting training aimed at reducing behavioral biases. On average, subjects exposed to forecasts are willing to pay roughly 60 percent of the cost of mobile internet access to continue receiving them. Both interventions reduce air pollution forecast error, and receipt of forecasts increase demand for protective masks. These results document substantial demand for forecasts among urban residents in the developing world. They suggest that modest educational interventions may durably improve forecasting-relevant human capital.
 
 ### **Political Identity and Foreign Aid Efficacy: Evidence from Pakistani Schools**
 
