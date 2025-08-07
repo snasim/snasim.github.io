@@ -4,41 +4,46 @@ pagetitle: "Sanval's Research"
 ---
 
 <style>
-.publication-title {
-margin-left:3em;
-text-indent:-3em;
-margin-bottom:0em;
+ol.publication-list {
+  list-style-position: outside;
+  padding-left: 1.2em;
+  margin-left: 0;
+}
+ol.publication-list li::marker {
+  font-weight: normal;
 }
 .publication-entry {
-margin-top:0em;
-margin-bottom:1.5em;
+  margin-bottom: 1.5em;
+}
+.publication-title a {
+  font-weight: normal;
+  text-decoration: none;
+  color: #0077b6;
 }
 .publication-meta {
-margin-left:3em;
-margin-top:-0.5em;
-}
-.abstract-block {
-margin-left:-1.5em;
+  margin-top: 0.2em;
 }
 .inline-toggle {
-display:inline;
-margin-left:0.4em;
+  display: inline;
+  margin-left: 0.4em;
 }
 .inline-toggle > summary {
-display:inline;
-cursor:pointer;
-font-weight:bold;
-list-style:none;
+  display: inline;
+  cursor: pointer;
+  font-weight: bold;
+  list-style: none;
 }
 .inline-toggle > summary::after {
-content:" (+)";
+  content: " (+)";
 }
 .inline-toggle[open] > summary::after {
-content:" (–)";
-margin-left:-1.5em;
+  content: " (–)";
 }
 .inline-toggle[open] > *:not(summary) {
-margin-top:0.75em;
+  margin-top: 0.75em;
+}
+.abstract-block {
+  margin-top: 0.75em;
 }
 </style>
 
@@ -46,136 +51,197 @@ margin-top:0.75em;
 
 ## Publications
 
+<ol class="publication-list" start="1">
+
+<li>
 <div class="publication-entry">
 <div class="publication-title">
-<span>3.</span> "<a href="https://doi.org/10.1016/j.jpubeco.2021.104494">Building Trust in the State with Information: Evidence from Urban Punjab</a>" (2021)
+Expectations and Adaptation to Environmental Threats (forthcoming)
+</div>
+<div class="publication-meta">
+<strong><em>The Economic Journal</em></strong>, with Husnain Fateh, Matthew Gibson, Fatiq Nadeem, and Arman Rezaee
+<details class="inline-toggle"><summary></summary>
+<div class="abstract-block">
+<p><strong>Abstract:</strong> Scarce information and human capital may make it difficult to form accurate expectations, limiting responses to uncertain environmental threats like air pollution. We study two cross-randomized interventions in Lahore, Pakistan: 1) general training in forecasting; 2) provision of air pollution forecasts. Both reduced subjects’ own air pollution forecast errors; the training effect suggests that modest educational interventions can durably improve forecasting skills. Forecast receipt increased demand for protective masks and the responsiveness of outdoor time to pollution. Forecast recipients were willing to pay 41 percent of their total mobile phone costs for continued access, consistent with welfare gains from adaptation.</p>
+<p style="margin-top: 0.5em;">
+– <a href="files/Pollution_Forecasts.pdf" target="_blank">PDF</a><br>
+– <a href="https://voxdev.org/topic/energy-environment/information-and-training-helps-individuals-forecast-and-adapt-air" target="_blank">Coverage in <em>VoxDev</em></a><br>
+– <a href="https://thefridaytimes.com/21-Sep-2023/avoiding-air-pollution" target="_blank">Coverage in <em>The Friday Times</em></a>
+</p>
+</div>
+</details>
+</div>
+</div>
+</li>
+
+<li>
+<div class="publication-entry">
+<div class="publication-title">
+<a href="https://doi.org/10.1016/j.jpubeco.2021.104494">Building Trust in the State with Information: Evidence from Urban Punjab</a> (2021)
 </div>
 <div class="publication-meta">
 <strong><em>Journal of Public Economics,</em></strong> with Adnan Khan, Mahvish Shaukat, and Andreas Stegmann
-<details class="inline-toggle">
-<summary></summary>
+<details class="inline-toggle"><summary></summary>
 <div class="abstract-block">
 <p><strong>Abstract:</strong> Can communication designed to increase support for government policy and shift perceptions of state capacity redress deep-rooted mistrust in state institutions? This paper finds providing information on past state effectiveness, highlighting citizens’ cooperation in enabling past effectiveness or appealing to religious authorities’ support for government policy have limited impact on support for policy, perceptions of state capacity and trust in the state in Pakistan. This holds true on average and across important dimensions of heterogeneity after comparing treatment effects to those induced by an experimenter demand treatment. This paper highlights the limits of using information to build trust in state institutions, and the importance of measuring experimenter demand.</p>
+<p style="margin-top: 0.5em;">
+– <a href="files/Trust_State.pdf" target="_blank">PDF</a>
+</p>
 </div>
 </details>
 </div>
 </div>
+</li>
 
-
+<li>
 <div class="publication-entry">
 <div class="publication-title">
-<span>2.</span> "<a href="https://doi.org/10.1016/j.reseneeco.2020.101203">Groundwater Management under Heterogeneous Land Tenure Arrangements</a>" (2020)
+<a href="https://doi.org/10.1016/j.reseneeco.2020.101203">Groundwater Management under Heterogeneous Land Tenure Arrangements</a> (2020)
 </div>
 <div class="publication-meta">
 <strong><em>Resource and Energy Economics,</em></strong> with Steven Helfand and Ariel Dinar
-<details class="inline-toggle">
-<summary></summary>
+<details class="inline-toggle"><summary></summary>
 <div class="abstract-block">
 <p><strong>Abstract:</strong> We develop a groundwater extraction model that considers the Marshallian inefficiency associated with sharecropping and use data from Pakistan to simulate the impact of an open access regime and of optimal management on groundwater extractions, the state of the aquifer, and annual net benefits through time. We also evaluate a price instrument as a mechanism of inducing optimal extractions. Under both open access and optimal management, we observe notable differences in groundwater extractions and the water table level between the tenure model (which considers the behavior of both owner cultivators and sharecroppers) and the baseline model (which includes the behavior of only owner cultivators). We also find a modest difference in the aggregate net benefits generated by the two models. The results offer new insights—vis-à-vis land tenure heterogeneity—into the evaluation of more effective policies for groundwater management and aquifer sustainability.</p>
+<p style="margin-top: 0.5em;">
+– <a href="files/Groundwater.pdf" target="_blank">PDF</a>
+</p>
 </div>
 </details>
 </div>
 </div>
+</li>
 
-
+<li>
 <div class="publication-entry">
 <div class="publication-title">
-<span>1.</span> "<a href="https://doi.org/10.1016/j.jclepro.2020.120553">To adopt, or not to adopt, ‘why’ is the question: A case for clean kiln technologies in developing countries</a>" (2020)
+<a href="https://doi.org/10.1016/j.jclepro.2020.120553">To adopt, or not to adopt, ‘why’ is the question: A case for clean kiln technologies in developing countries</a> (2020)
 </div>
 <div class="publication-meta">
 <strong><em>Journal of Cleaner Production,</em></strong> with Faiza Sharif
-<details class="inline-toggle">
-<summary></summary>
+<details class="inline-toggle"><summary></summary>
 <div class="abstract-block">
 <p><strong>Abstract:</strong> In this paper, we compare two brick kiln technologies—the Bull’s Trench Kiln (BTK) and the Induced Draft Zigzag Kiln (ZZK)—through a transdisciplinary approach by focusing on two questions: do ZZKs tend to be cleaner than BTKs? Will operating ZZKs generate any reasonable economic and social benefits? To answer the first question, we collected and tested stack emission samples from two kilns: a newly constructed ZZK in Punjab, Pakistan and a conventional BTK located close to the ZZK. To address the second question, we conducted a cost-benefit analysis of the two types of kiln technologies using primary data on input and output quantities and prices from the sample kilns. The environmental results show that the ZZK emitted significantly less amount of harmful gases and particulate matter compared to the BTK. The economic analysis demonstrates that ZZKs improve both discounted private welfare and discounted social welfare compared to BTKs. For policymakers, we also outline recommendations to facilitate the technology transition to ZZKs. Our findings provide a case for the adoption of ZZKs in developing countries and for environmental policymakers to facilitate the technology transition.</p>
+<p style="margin-top: 0.5em;">
+– <a href="files/Kilns.pdf" target="_blank">PDF</a>
+</p>
 </div>
 </details>
 </div>
 </div>
+</li>
+
+</ol>
 
 ***
-
 
 ## Working Papers
 
+<ol class="publication-list" start="5">
+
+<li>
 <div class="publication-entry">
 <div class="publication-title">
-<span>
-"Expectations and Adaptation to Environmental Threats" with Husnain Fateh, Matthew Gibson, Fatiq Nadeem, and Arman Rezaee, <em>Revise & Resubmit</em>, <strong><em>The Economic Journal</em></strong>
-</span>
-<details class="inline-toggle">
-<summary></summary>
+<a href="files/Forecast_Sources.pdf">Beliefs, Signal Quality, and Information Sources: Experimental Evidence on Air Quality in Pakistan</a>
+</div>
+<div class="publication-meta">
+with Isra Imtiaz, Shotaro Nakamura, and Arman Rezaee
+<details class="inline-toggle"><summary></summary>
 <div class="abstract-block">
-<p><strong>Abstract:</strong> Scarce information and human capital may make it difficult to form accurate expectations, limiting responses to uncertain environmental threats like air pollution. We study two cross-randomized interventions in Lahore, Pakistan: 1) general training in forecasting; 2) provision of air pollution forecasts. Both reduced subjects’ own air pollution forecast errors; the training effect suggests that modest educational interventions can durably improve forecasting skills. Forecast receipt increased demand for protective masks and the responsiveness of outdoor time to pollution. Forecast recipients were willing to pay 41 percent of their total mobile phone costs for continued access, consistent with welfare gains from adaptation.</p>
+<p><strong>Abstract:</strong> We study how the perceived source of environmental information—government or non-government aﬀects consumers’ beliefs and demand for air quality forecasts in developing economies. In a randomized experiment in Lahore, Pakistan, we provide identical day-ahead SMS forecasts, varying only the attributed source. Subjects exhibit high willingness-to-pay regardless of source but perceive government forecasts as 12% less accurate. Nonetheless, they ultimately prefer the source assigned to them. Our findings suggest that source exposure—rather than content alone—shapes consumers' beliefs and preferences, with implications for welfare-enhancing access to environmental information in low-capacity settings.</p>
+<p style="margin-top: 0.5em;">
+– <a href="https://escholarship.org/uc/item/3z476268" target="_blank">CEGA Working Paper No. 247</a><br>
+– <a href="https://thefridaytimes.com/07-Oct-2023/do-lahoris-care-where-they-get-air-quality-information-from" target="_blank">Coverage in <em>The Friday Times</em></a>
+</p>
 </div>
 </details>
 </div>
 </div>
+</li>
 
-### **Forecasts: Consumption, Production, and Behavioral Responses**
+<li>
+<div class="publication-entry">
+<div class="publication-title">
+<a href="files/Political_Identity.pdf">Political Identity and Foreign Aid Efficacy: Evidence from Pakistani Schools</a>
+</div>
+<div class="publication-meta">
+with Andreas Stegmann
+<details class="inline-toggle"><summary></summary>
+<div class="abstract-block">
+<p><strong>Abstract:</strong> We examine how political identity and self-image concerns shape local willingness to collaborate with NGOs administering development programs—a key factor for aid efficacy. On behalf of a NGO, we call school owners in Pakistan to elicit their interest in a collaboration. In the treatment group, we explicitly reveal the NGO’s liberal political motivation. The phone conversation is private and designed to minimize consequential considerations, allowing to isolate self-image concerns related to an anti-liberal political identity. While the treatment has a significant impact on beliefs about the NGO’s objectives, on average, we find no evidence that treated school owners are less interested in collaborating with the NGO. However, among the small minority of school owners expressing conservative beliefs in an additional obfuscated phone survey, we document large negative heterogenous treatment effects. Our findings contribute to our understanding of how donors’ political interests affect the efficacy of NGO-provided aid.</p>
+<p style="margin-top: 0.5em;">
+– <a href="https://warwick.ac.uk/fac/soc/economics/research/centres/cage/manage/publications/wp624.2022.pdf" target="_blank">CAGE Working Paper No. 624</a>
+</p>
+</div>
+</details>
+</div>
+</div>
+</li>
 
-(with Husnain A. Fateh, Matthew Gibson, Fatiq Nadeem, and Arman Rezaee)
+<li>
+<div class="publication-entry">
+<div class="publication-title">
+<a href="files/Lahore_Pollution_Landscape.pdf">Let Us Breathe!</a>
+</div>
+<div class="publication-meta">
+with Ali Habib and Amna Shahab
+<details class="inline-toggle"><summary></summary>
+<div class="abstract-block">
+<p><strong>Abstract:</strong> Air quality in lower and lower-middle income countries has considerably deteriorated over the past many years, affecting human capital and welfare. Even though many developing countries have strong air pollution rules and regulations on paper—with a comprehensive set of ambient air quality and emission standards—their air quality outcomes continue to stagnate. Why? We deconstruct this problem using Pakistan—a developing country with a rich history of environmental regulation but acute air pollution—as a case study, demonstrating that regulatory deficiencies, resource and capacity constraints, and imperfect information prevent environmental institutions from achieving their objectives. Poorly designed standards—governed by a command-and-control approach—paltry budgets, and missing data on source emissions and ambient air quality inhibit environmental institutions’ ability to monitor and enforce air quality regulations. Understanding how much citizens value better air quality (willingness to pay), employing source apportionment studies, and harnessing the “informal regulator” (civil society) offer opportunities to fill policy gaps and improve compliance.</p>
+<p style="margin-top: 0.5em;">
+– <a href="https://www.theigc.org/sites/default/files/2021/06/Habib-March-2021-Final-report.pdf" target="_blank">IGC Research Project Report E-21019-PAK-1</a><br>
+– <a href="https://www.dawn.com/news/1654542/gasping-for-air-punjabs-perennial-air-pollution-woes" target="_blank">Coverage in <em>Dawn</em></a>
+</p>
+</div>
+</details>
+</div>
+</div>
+</li>
 
-[Preliminary draft available on request]
+</ol>
 
-**Abstract:** Economic theory predicts forecasts are an important determinant of welfare. In developing countries, however, limited information and human capital may make it difficult for agents to produce accurate, precise forecasts. This plausibly limits the scope for optimal responses to uncertain future events. Focusing on air pollution, we explore how urban residents in the developing world solve forecasting problems in the presence of constraints on information and human capital. We implement a randomized controlled trial in Lahore, Pakistan to study the effects on forecast consumption, production, and behavioral responses from two randomized interventions in Lahore, Pakistan: 1) provision of one-day ahead air pollution forecasts; and 2) general forecasting training aimed at reducing behavioral biases. On average, subjects exposed to forecasts are willing to pay roughly 60 percent of the cost of mobile internet access to continue receiving them. Both interventions reduce air pollution forecast error, and receipt of forecasts increase demand for protective masks. These results document substantial demand for forecasts among urban residents in the developing world. They suggest that modest educational interventions may durably improve forecasting-relevant human capital.
-
-### **Political Identity and Foreign Aid Efficacy: Evidence from Pakistani Schools**
-
-(with Andreas Stegmann)
-
-[Preliminary draft available on request]
-
-**Abstract:** We conduct a field experiment to study whether concerns to preserve an anti-liberal self-image affect low cost, private school owners’ willingness to explore a collaboration with a liberal Pakistani NGO. While explicitly revealing the NGO’s liberal motivation to school owners has a significant impact on beliefs about the NGO’s objectives, on average, we find only limited evidence that treated school owners are less willing to explore a collaboration with our partner NGO. However, heterogeneous treatment effects suggest that differences in political identity cause negative reactions among the minority of school owners expressing conservative beliefs during a seemingly unrelated follow-up survey.
-
-\
-
-### **Forecasts: Consumption, Production, and Behavioral Responses**
-
-(with Husnain A. Fateh, Matthew Gibson, Fatiq Nadeem, and Arman Rezaee)
-
-[Preliminary draft available on request]
-
-**Abstract:** Economic theory predicts forecasts are an important determinant of welfare. In developing countries, however, limited information and human capital may make it difficult for agents to produce accurate, precise forecasts. This plausibly limits the scope for optimal responses to uncertain future events. Focusing on air pollution, we explore how urban residents in the developing world solve forecasting problems in the presence of constraints on information and human capital. We implement a randomized controlled trial in Lahore, Pakistan to study the effects on forecast consumption, production, and behavioral responses from two randomized interventions in Lahore, Pakistan: 1) provision of one-day ahead air pollution forecasts; and 2) general forecasting training aimed at reducing behavioral biases. On average, subjects exposed to forecasts are willing to pay roughly 60 percent of the cost of mobile internet access to continue receiving them. Both interventions reduce air pollution forecast error, and receipt of forecasts increase demand for protective masks. These results document substantial demand for forecasts among urban residents in the developing world. They suggest that modest educational interventions may durably improve forecasting-relevant human capital.
-
-\
-
-### **[Let Us Breathe!](files/Pollution.pdf)**
-
-(with Ali Habib and Amna Shahab)
-
-An earlier version is [available](https://www.theigc.org/wp-content/uploads/2021/06/Habib-March-2021-Final-report.pdf) as IGC Research Project Report E-21019-PAK-1, London: International Growth Center, March 2021.
-
-**Abstract:** Air quality in lower and lower-middle income countries has considerably deteriorated over the past many years, affecting human capital and welfare. Even though many developing countries have strong air pollution rules and regulations on paper—with a comprehensive set of ambient air quality and emission standards—their air quality outcomes continue to stagnate. Why? We deconstruct this problem using Pakistan—a developing country with a rich history of environmental regulation but acute air pollution—as a case study, demonstrating that regulatory deficiencies, resource and capacity constraints, and imperfect information prevent environmental institutions from achieving their objectives. Poorly designed standards—governed by a command-and-control approach—paltry budgets, and missing data on source emissions and ambient air quality inhibit environmental institutions’ ability to monitor and enforce air quality regulations. Understanding how much citizens value better air quality (willingness to pay), employing source apportionment studies, and harnessing the “informal regulator” (civil society) offer opportunities to fill policy gaps and improve compliance.
 
 ***
 
-## Ongoing Projects
+## Book Chapters
 
-### **Does conservation messaging reduce urban water consumption?**
+<ol class="publication-list" start="8">
 
-(with Agha Ali Akram and Syed M. Hasan)
+<li>
+<div class="publication-entry">
+<div class="publication-title">
+<a href="https://link.springer.com/chapter/10.1007/978-3-031-36131-9_9">Managing Pakistan's Groundwater (2023)</a>
+</div>
+<div class="publication-meta">
+In <em>Water Policy in Pakistan: Issues and Options</em>. Mahmood Ahmad, ed. Springer Nature
+<details class="inline-toggle"><summary></summary>
+<div class="abstract-block">
+<p><strong>Abstract:</strong> To ensure water security and sustainability, Pakistan’s policymakers must keep groundwater extractions and stock at reasonable levels. How do policymakers currently manage groundwater? Why have they struggled so far? What are some of the tools that they can harness to improve groundwater allocation? By surveying existing data and literature on Pakistan’s groundwater, I address these questions, identifying the challenges that the country faces in managing groundwater and explaining policy instruments that could tackle these challenges. The chapter serves as a guide for scholars, practitioners, and policymakers interested in contextualizing Pakistan’s groundwater issues and understanding policy prescriptions that incentivize welfare-enhancing extractions.</p>
+</div>
+</details>
+</div>
+</div>
+</li>
 
-*Supported by the United Nations Development Programme with funds totaling $40,000*
+</ol>
 
-[Preliminary draft available on request]
+***
 
-**Abstract:** Cities in developing countries often lack water meters to gauge volumetric consumption, which inhibits water utilities' capacity to price the resource. Given the difficulty of establishing volumetric pricing schemes in unmetered settings, do informational nudges provide water utilities an effective alternative to incentivize households to reduce their water consumption? To answer this question, we conduct a randomized controlled trial in Islamabad, Pakistan. Our treatment includes three different intervention materials: an infographics poster depicting water conservation tips; a calendar with a religious message on water conservation (religious calendar); and a calendar with a message on potential financial loss due to water scarcity (loss aversion calendar). We find that the intervention material pushes the willingness to conserve in the right direction for most respondents in our treatment arms. Our results suggest that informational messages offer policymakers a low-cost alternative to nudge urban households to conserve water in their homes.
+## Works in Progress
 
-\
+<ol class="publication-list" start="9">
 
-### **Belief formation, signal quality, and information sources: Experimental evidence on air quality from Pakistan**
+<li>
+<div class="publication-entry">
+<div class="publication-title">
+Developing a Smog Alert System in Lahore to Enhance Public Response and Policy Decisions
+</div>
+<div class="publication-meta">
+with Shotaro Nakamura, Arman Rezaee, and Farah Said
+</div>
+</div>
+</li>
 
-(with Matthew Gibson, Shotaro Nakamura, and Arman Rezaee)
-
-*Supported by the International Growth Center with funds totaling £35,000*
-
-\
-
-### **Does the disclosure of third-party information on firm emissions increase regulatory compliance?**
-
-(with Michael Greenstone and Usman Naeem)
-
-*Supported by the International Growth Center with funds totaling £32,000*
+</ol>
 
 ***
