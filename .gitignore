@@ -1,4 +1,20 @@
-.Rproj.user
+# macOS
+.DS_Store
+
+# RStudio
 .Rhistory
 .RData
-.Ruserdata
+.Rproj.user/
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+
+# VS Code
+.vscode/
+
+# Environment files
+.env
